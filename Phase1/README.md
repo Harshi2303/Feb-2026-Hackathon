@@ -8,8 +8,6 @@ This project focuses on detecting synthetic (AI-generated) images using deep lea
 ## Folder Structure
 Phase1/
 
-|-- data/                 (CIFAKE dataset, preprocessed images)
-
 |-- M1_Phase1.ipynb       (Model training notebook)
 
 |-- M2_Phase1.ipynb       (Data preprocessing & augmentation notebook)

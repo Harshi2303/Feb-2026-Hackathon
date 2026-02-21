@@ -7,13 +7,21 @@ This project focuses on detecting synthetic (AI-generated) images using deep lea
 
 ## Folder Structure
 Phase1/
-├── data # CIFAKE dataset, preprocessed images
-├── M1_Phase1.ipynb # Model training notebook
-├── M2_Phase1.ipynb # Data preprocessing & augmentation notebook
-├── M3_Phase1.ipynb # Metrics & explainability notebook
-├── models # Saved model checkpoints
-├── results_metrics # Metrics tables and plots
-└── results_gradcam # Grad-CAM / saliency images
+
+|-- data/                 (CIFAKE dataset, preprocessed images)
+
+|-- M1_Phase1.ipynb       (Model training notebook)
+
+|-- M2_Phase1.ipynb       (Data preprocessing & augmentation notebook)
+
+|-- M3_Phase1.ipynb       (Metrics & explainability notebook)
+
+|-- models/               (Saved model checkpoints)
+
+|-- results_metrics/      (Metrics tables and plots)
+
+|-- results_gradcam/      (Grad-CAM / saliency images)
+
 
 ---
 

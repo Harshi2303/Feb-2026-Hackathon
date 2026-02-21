@@ -1,0 +1,11 @@
+sample_id,path,y_true,y_pred,p_real,p_fake,gradcam_image
+1,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\17 (9).jpg,1,0,0.5325809121131897,0.4674191474914551,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\Phase1\results_gradcam\gradcam_01.png
+2,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\312 (8).jpg,1,1,0.40392670035362244,0.5960732698440552,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\Phase1\results_gradcam\gradcam_02.png
+3,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0647 (8).jpg,0,0,0.6503328084945679,0.34966716170310974,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\Phase1\results_gradcam\gradcam_03.png
+4,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\764 (10).jpg,1,1,0.45700961351394653,0.5429903864860535,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\Phase1\results_gradcam\gradcam_04.png
+5,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0768 (6).jpg,0,1,0.4930758774280548,0.5069241523742676,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\Phase1\results_gradcam\gradcam_05.png
+6,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\814 (2).jpg,1,1,0.387249231338501,0.612750768661499,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\Phase1\results_gradcam\gradcam_06.png
+7,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0726 (9).jpg,0,1,0.4503311812877655,0.5496688485145569,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\Phase1\results_gradcam\gradcam_07.png
+8,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0748.jpg,0,1,0.16945086419582367,0.8305491805076599,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\Phase1\results_gradcam\gradcam_08.png
+9,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\755 (6).jpg,1,1,0.367180734872818,0.6328192949295044,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\Phase1\results_gradcam\gradcam_09.png
+10,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\311 (3).jpg,1,1,0.10130739212036133,0.8986926078796387,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\Phase1\results_gradcam\gradcam_10.png

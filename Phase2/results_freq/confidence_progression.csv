@@ -1,0 +1,241 @@
+sample_id,path,class_name,y_true,stage,p_fake
+FAKE_000_661_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\661 (3).jpg,FAKE,1,original,0.46554282307624817
+FAKE_000_661_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\661 (3).jpg,FAKE,1,suppress_high,0.44996944069862366
+FAKE_000_661_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\661 (3).jpg,FAKE,1,remove_checkerboard,0.5507157444953918
+FAKE_000_661_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\661 (3).jpg,FAKE,1,low_pass,0.45858290791511536
+FAKE_000_661_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\661 (3).jpg,FAKE,1,slight_mask,0.45858290791511536
+FAKE_001_52_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\52 (5).jpg,FAKE,1,original,0.516917884349823
+FAKE_001_52_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\52 (5).jpg,FAKE,1,suppress_high,0.5254064798355103
+FAKE_001_52_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\52 (5).jpg,FAKE,1,remove_checkerboard,0.39827796816825867
+FAKE_001_52_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\52 (5).jpg,FAKE,1,low_pass,0.22138546407222748
+FAKE_001_52_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\52 (5).jpg,FAKE,1,slight_mask,0.22138546407222748
+FAKE_002_254_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\254 (2).jpg,FAKE,1,original,0.4601036012172699
+FAKE_002_254_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\254 (2).jpg,FAKE,1,suppress_high,0.4582287669181824
+FAKE_002_254_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\254 (2).jpg,FAKE,1,remove_checkerboard,0.4458427429199219
+FAKE_002_254_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\254 (2).jpg,FAKE,1,low_pass,0.4259795546531677
+FAKE_002_254_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\254 (2).jpg,FAKE,1,slight_mask,0.4259795546531677
+FAKE_003_525_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\525 (3).jpg,FAKE,1,original,0.707910418510437
+FAKE_003_525_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\525 (3).jpg,FAKE,1,suppress_high,0.7047791481018066
+FAKE_003_525_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\525 (3).jpg,FAKE,1,remove_checkerboard,0.6072437763214111
+FAKE_003_525_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\525 (3).jpg,FAKE,1,low_pass,0.5525927543640137
+FAKE_003_525_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\525 (3).jpg,FAKE,1,slight_mask,0.5525927543640137
+FAKE_004_505_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\505 (2).jpg,FAKE,1,original,0.3239254355430603
+FAKE_004_505_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\505 (2).jpg,FAKE,1,suppress_high,0.31653064489364624
+FAKE_004_505_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\505 (2).jpg,FAKE,1,remove_checkerboard,0.2832907736301422
+FAKE_004_505_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\505 (2).jpg,FAKE,1,low_pass,0.4192027449607849
+FAKE_004_505_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\505 (2).jpg,FAKE,1,slight_mask,0.4192027449607849
+FAKE_005_67_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\67 (10).jpg,FAKE,1,original,0.39839035272598267
+FAKE_005_67_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\67 (10).jpg,FAKE,1,suppress_high,0.41564425826072693
+FAKE_005_67_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\67 (10).jpg,FAKE,1,remove_checkerboard,0.39960208535194397
+FAKE_005_67_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\67 (10).jpg,FAKE,1,low_pass,0.3765174150466919
+FAKE_005_67_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\67 (10).jpg,FAKE,1,slight_mask,0.3765174150466919
+FAKE_006_15_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\15 (7).jpg,FAKE,1,original,0.6768020391464233
+FAKE_006_15_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\15 (7).jpg,FAKE,1,suppress_high,0.6543005704879761
+FAKE_006_15_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\15 (7).jpg,FAKE,1,remove_checkerboard,0.6492360234260559
+FAKE_006_15_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\15 (7).jpg,FAKE,1,low_pass,0.39572736620903015
+FAKE_006_15_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\15 (7).jpg,FAKE,1,slight_mask,0.39572736620903015
+FAKE_007_567_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\567 (3).jpg,FAKE,1,original,0.518992006778717
+FAKE_007_567_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\567 (3).jpg,FAKE,1,suppress_high,0.5150977373123169
+FAKE_007_567_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\567 (3).jpg,FAKE,1,remove_checkerboard,0.4725378751754761
+FAKE_007_567_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\567 (3).jpg,FAKE,1,low_pass,0.5121649503707886
+FAKE_007_567_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\567 (3).jpg,FAKE,1,slight_mask,0.5121649503707886
+FAKE_008_671_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\671 (4).jpg,FAKE,1,original,0.5517562627792358
+FAKE_008_671_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\671 (4).jpg,FAKE,1,suppress_high,0.5591586828231812
+FAKE_008_671_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\671 (4).jpg,FAKE,1,remove_checkerboard,0.4679626524448395
+FAKE_008_671_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\671 (4).jpg,FAKE,1,low_pass,0.5675760507583618
+FAKE_008_671_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\671 (4).jpg,FAKE,1,slight_mask,0.5675760507583618
+FAKE_009_137,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\137.jpg,FAKE,1,original,0.5061548948287964
+FAKE_009_137,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\137.jpg,FAKE,1,suppress_high,0.498502254486084
+FAKE_009_137,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\137.jpg,FAKE,1,remove_checkerboard,0.5165542960166931
+FAKE_009_137,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\137.jpg,FAKE,1,low_pass,0.5189422369003296
+FAKE_009_137,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\137.jpg,FAKE,1,slight_mask,0.5189422369003296
+FAKE_010_346_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\346 (10).jpg,FAKE,1,original,0.42761680483818054
+FAKE_010_346_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\346 (10).jpg,FAKE,1,suppress_high,0.4214105010032654
+FAKE_010_346_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\346 (10).jpg,FAKE,1,remove_checkerboard,0.42908838391304016
+FAKE_010_346_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\346 (10).jpg,FAKE,1,low_pass,0.44712045788764954
+FAKE_010_346_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\346 (10).jpg,FAKE,1,slight_mask,0.44712045788764954
+FAKE_011_772_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\772 (8).jpg,FAKE,1,original,0.6341858506202698
+FAKE_011_772_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\772 (8).jpg,FAKE,1,suppress_high,0.6136989593505859
+FAKE_011_772_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\772 (8).jpg,FAKE,1,remove_checkerboard,0.5100037455558777
+FAKE_011_772_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\772 (8).jpg,FAKE,1,low_pass,0.5740431547164917
+FAKE_011_772_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\772 (8).jpg,FAKE,1,slight_mask,0.5740431547164917
+FAKE_012_573_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\573 (3).jpg,FAKE,1,original,0.4468716084957123
+FAKE_012_573_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\573 (3).jpg,FAKE,1,suppress_high,0.43560776114463806
+FAKE_012_573_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\573 (3).jpg,FAKE,1,remove_checkerboard,0.46868807077407837
+FAKE_012_573_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\573 (3).jpg,FAKE,1,low_pass,0.3785782754421234
+FAKE_012_573_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\573 (3).jpg,FAKE,1,slight_mask,0.3785782754421234
+FAKE_013_607_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\607 (4).jpg,FAKE,1,original,0.5524167418479919
+FAKE_013_607_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\607 (4).jpg,FAKE,1,suppress_high,0.5618197917938232
+FAKE_013_607_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\607 (4).jpg,FAKE,1,remove_checkerboard,0.5629614591598511
+FAKE_013_607_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\607 (4).jpg,FAKE,1,low_pass,0.44132059812545776
+FAKE_013_607_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\607 (4).jpg,FAKE,1,slight_mask,0.44132059812545776
+FAKE_014_458,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\458.jpg,FAKE,1,original,0.7400428652763367
+FAKE_014_458,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\458.jpg,FAKE,1,suppress_high,0.7565332055091858
+FAKE_014_458,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\458.jpg,FAKE,1,remove_checkerboard,0.6020196676254272
+FAKE_014_458,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\458.jpg,FAKE,1,low_pass,0.43191224336624146
+FAKE_014_458,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\458.jpg,FAKE,1,slight_mask,0.43191224336624146
+FAKE_015_641_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\641 (4).jpg,FAKE,1,original,0.525158166885376
+FAKE_015_641_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\641 (4).jpg,FAKE,1,suppress_high,0.5416534543037415
+FAKE_015_641_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\641 (4).jpg,FAKE,1,remove_checkerboard,0.4778612554073334
+FAKE_015_641_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\641 (4).jpg,FAKE,1,low_pass,0.43599140644073486
+FAKE_015_641_(4),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\641 (4).jpg,FAKE,1,slight_mask,0.43599140644073486
+FAKE_016_150_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\150 (3).jpg,FAKE,1,original,0.4695988595485687
+FAKE_016_150_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\150 (3).jpg,FAKE,1,suppress_high,0.4698556661605835
+FAKE_016_150_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\150 (3).jpg,FAKE,1,remove_checkerboard,0.3915213346481323
+FAKE_016_150_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\150 (3).jpg,FAKE,1,low_pass,0.4786076545715332
+FAKE_016_150_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\150 (3).jpg,FAKE,1,slight_mask,0.4786076545715332
+FAKE_017_993_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\993 (10).jpg,FAKE,1,original,0.43237054347991943
+FAKE_017_993_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\993 (10).jpg,FAKE,1,suppress_high,0.4375694990158081
+FAKE_017_993_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\993 (10).jpg,FAKE,1,remove_checkerboard,0.4035417139530182
+FAKE_017_993_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\993 (10).jpg,FAKE,1,low_pass,0.5358885526657104
+FAKE_017_993_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\993 (10).jpg,FAKE,1,slight_mask,0.5358885526657104
+FAKE_018_733_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\733 (2).jpg,FAKE,1,original,0.4898856580257416
+FAKE_018_733_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\733 (2).jpg,FAKE,1,suppress_high,0.4776979088783264
+FAKE_018_733_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\733 (2).jpg,FAKE,1,remove_checkerboard,0.3596501648426056
+FAKE_018_733_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\733 (2).jpg,FAKE,1,low_pass,0.26060542464256287
+FAKE_018_733_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\733 (2).jpg,FAKE,1,slight_mask,0.26060542464256287
+FAKE_019_832_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\832 (9).jpg,FAKE,1,original,0.39764711260795593
+FAKE_019_832_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\832 (9).jpg,FAKE,1,suppress_high,0.3996245861053467
+FAKE_019_832_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\832 (9).jpg,FAKE,1,remove_checkerboard,0.3967147469520569
+FAKE_019_832_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\832 (9).jpg,FAKE,1,low_pass,0.45428383350372314
+FAKE_019_832_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\832 (9).jpg,FAKE,1,slight_mask,0.45428383350372314
+FAKE_020_99_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\99 (7).jpg,FAKE,1,original,0.525476336479187
+FAKE_020_99_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\99 (7).jpg,FAKE,1,suppress_high,0.5083566308021545
+FAKE_020_99_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\99 (7).jpg,FAKE,1,remove_checkerboard,0.4229065477848053
+FAKE_020_99_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\99 (7).jpg,FAKE,1,low_pass,0.6768407821655273
+FAKE_020_99_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\99 (7).jpg,FAKE,1,slight_mask,0.6768407821655273
+FAKE_021_30,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\30.jpg,FAKE,1,original,0.46189966797828674
+FAKE_021_30,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\30.jpg,FAKE,1,suppress_high,0.46367818117141724
+FAKE_021_30,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\30.jpg,FAKE,1,remove_checkerboard,0.4760538339614868
+FAKE_021_30,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\30.jpg,FAKE,1,low_pass,0.5040761828422546
+FAKE_021_30,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\30.jpg,FAKE,1,slight_mask,0.5040761828422546
+FAKE_022_516_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\516 (10).jpg,FAKE,1,original,0.5109494924545288
+FAKE_022_516_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\516 (10).jpg,FAKE,1,suppress_high,0.5097298622131348
+FAKE_022_516_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\516 (10).jpg,FAKE,1,remove_checkerboard,0.36445409059524536
+FAKE_022_516_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\516 (10).jpg,FAKE,1,low_pass,0.39522451162338257
+FAKE_022_516_(10),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\516 (10).jpg,FAKE,1,slight_mask,0.39522451162338257
+FAKE_023_952_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\952 (6).jpg,FAKE,1,original,0.43007692694664
+FAKE_023_952_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\952 (6).jpg,FAKE,1,suppress_high,0.44029828906059265
+FAKE_023_952_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\952 (6).jpg,FAKE,1,remove_checkerboard,0.35726919770240784
+FAKE_023_952_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\952 (6).jpg,FAKE,1,low_pass,0.4587711691856384
+FAKE_023_952_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\FAKE\952 (6).jpg,FAKE,1,slight_mask,0.4587711691856384
+REAL_024_0941_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0941 (6).jpg,REAL,0,original,0.49696478247642517
+REAL_024_0941_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0941 (6).jpg,REAL,0,suppress_high,0.500646710395813
+REAL_024_0941_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0941 (6).jpg,REAL,0,remove_checkerboard,0.49657949805259705
+REAL_024_0941_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0941 (6).jpg,REAL,0,low_pass,0.41497376561164856
+REAL_024_0941_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0941 (6).jpg,REAL,0,slight_mask,0.41497376561164856
+REAL_025_0637_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0637 (8).jpg,REAL,0,original,0.3603435456752777
+REAL_025_0637_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0637 (8).jpg,REAL,0,suppress_high,0.34945109486579895
+REAL_025_0637_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0637 (8).jpg,REAL,0,remove_checkerboard,0.38845619559288025
+REAL_025_0637_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0637 (8).jpg,REAL,0,low_pass,0.35950154066085815
+REAL_025_0637_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0637 (8).jpg,REAL,0,slight_mask,0.35950154066085815
+REAL_026_0801,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0801.jpg,REAL,0,original,0.5425394773483276
+REAL_026_0801,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0801.jpg,REAL,0,suppress_high,0.5364461541175842
+REAL_026_0801,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0801.jpg,REAL,0,remove_checkerboard,0.5126609802246094
+REAL_026_0801,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0801.jpg,REAL,0,low_pass,0.4417218267917633
+REAL_026_0801,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0801.jpg,REAL,0,slight_mask,0.4417218267917633
+REAL_027_0775_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0775 (5).jpg,REAL,0,original,0.589532732963562
+REAL_027_0775_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0775 (5).jpg,REAL,0,suppress_high,0.5779780149459839
+REAL_027_0775_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0775 (5).jpg,REAL,0,remove_checkerboard,0.5184924006462097
+REAL_027_0775_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0775 (5).jpg,REAL,0,low_pass,0.4409618377685547
+REAL_027_0775_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0775 (5).jpg,REAL,0,slight_mask,0.4409618377685547
+REAL_028_0496_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0496 (2).jpg,REAL,0,original,0.6523481011390686
+REAL_028_0496_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0496 (2).jpg,REAL,0,suppress_high,0.6564627289772034
+REAL_028_0496_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0496 (2).jpg,REAL,0,remove_checkerboard,0.5615144371986389
+REAL_028_0496_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0496 (2).jpg,REAL,0,low_pass,0.4513091444969177
+REAL_028_0496_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0496 (2).jpg,REAL,0,slight_mask,0.4513091444969177
+REAL_029_0736_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0736 (5).jpg,REAL,0,original,0.44134780764579773
+REAL_029_0736_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0736 (5).jpg,REAL,0,suppress_high,0.4390699863433838
+REAL_029_0736_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0736 (5).jpg,REAL,0,remove_checkerboard,0.47708389163017273
+REAL_029_0736_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0736 (5).jpg,REAL,0,low_pass,0.42999139428138733
+REAL_029_0736_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0736 (5).jpg,REAL,0,slight_mask,0.42999139428138733
+REAL_030_0531_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0531 (7).jpg,REAL,0,original,0.3534254729747772
+REAL_030_0531_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0531 (7).jpg,REAL,0,suppress_high,0.3557387590408325
+REAL_030_0531_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0531 (7).jpg,REAL,0,remove_checkerboard,0.3837948143482208
+REAL_030_0531_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0531 (7).jpg,REAL,0,low_pass,0.273745059967041
+REAL_030_0531_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0531 (7).jpg,REAL,0,slight_mask,0.273745059967041
+REAL_031_0426_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0426 (6).jpg,REAL,0,original,0.653465986251831
+REAL_031_0426_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0426 (6).jpg,REAL,0,suppress_high,0.6549168229103088
+REAL_031_0426_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0426 (6).jpg,REAL,0,remove_checkerboard,0.6519278287887573
+REAL_031_0426_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0426 (6).jpg,REAL,0,low_pass,0.6322246193885803
+REAL_031_0426_(6),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0426 (6).jpg,REAL,0,slight_mask,0.6322246193885803
+REAL_032_0630_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0630 (3).jpg,REAL,0,original,0.464228093624115
+REAL_032_0630_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0630 (3).jpg,REAL,0,suppress_high,0.46904119849205017
+REAL_032_0630_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0630 (3).jpg,REAL,0,remove_checkerboard,0.4503013789653778
+REAL_032_0630_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0630 (3).jpg,REAL,0,low_pass,0.38093045353889465
+REAL_032_0630_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0630 (3).jpg,REAL,0,slight_mask,0.38093045353889465
+REAL_033_0858_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0858 (2).jpg,REAL,0,original,0.6493738889694214
+REAL_033_0858_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0858 (2).jpg,REAL,0,suppress_high,0.6569941639900208
+REAL_033_0858_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0858 (2).jpg,REAL,0,remove_checkerboard,0.5860792398452759
+REAL_033_0858_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0858 (2).jpg,REAL,0,low_pass,0.471522718667984
+REAL_033_0858_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0858 (2).jpg,REAL,0,slight_mask,0.471522718667984
+REAL_034_0166_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0166 (8).jpg,REAL,0,original,0.7943236231803894
+REAL_034_0166_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0166 (8).jpg,REAL,0,suppress_high,0.7955888509750366
+REAL_034_0166_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0166 (8).jpg,REAL,0,remove_checkerboard,0.6169009804725647
+REAL_034_0166_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0166 (8).jpg,REAL,0,low_pass,0.7340311408042908
+REAL_034_0166_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0166 (8).jpg,REAL,0,slight_mask,0.7340311408042908
+REAL_035_0004_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0004 (3).jpg,REAL,0,original,0.3573008179664612
+REAL_035_0004_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0004 (3).jpg,REAL,0,suppress_high,0.34537261724472046
+REAL_035_0004_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0004 (3).jpg,REAL,0,remove_checkerboard,0.4364875853061676
+REAL_035_0004_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0004 (3).jpg,REAL,0,low_pass,0.439041405916214
+REAL_035_0004_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0004 (3).jpg,REAL,0,slight_mask,0.439041405916214
+REAL_036_0684_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0684 (2).jpg,REAL,0,original,0.5065737962722778
+REAL_036_0684_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0684 (2).jpg,REAL,0,suppress_high,0.5407397150993347
+REAL_036_0684_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0684 (2).jpg,REAL,0,remove_checkerboard,0.5657348036766052
+REAL_036_0684_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0684 (2).jpg,REAL,0,low_pass,0.4972587823867798
+REAL_036_0684_(2),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0684 (2).jpg,REAL,0,slight_mask,0.4972587823867798
+REAL_037_0479_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0479 (5).jpg,REAL,0,original,0.19038674235343933
+REAL_037_0479_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0479 (5).jpg,REAL,0,suppress_high,0.1892031878232956
+REAL_037_0479_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0479 (5).jpg,REAL,0,remove_checkerboard,0.18390516936779022
+REAL_037_0479_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0479 (5).jpg,REAL,0,low_pass,0.20834259688854218
+REAL_037_0479_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0479 (5).jpg,REAL,0,slight_mask,0.20834259688854218
+REAL_038_0964,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0964.jpg,REAL,0,original,0.3859536647796631
+REAL_038_0964,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0964.jpg,REAL,0,suppress_high,0.40006494522094727
+REAL_038_0964,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0964.jpg,REAL,0,remove_checkerboard,0.342996209859848
+REAL_038_0964,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0964.jpg,REAL,0,low_pass,0.3956657946109772
+REAL_038_0964,C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0964.jpg,REAL,0,slight_mask,0.3956657946109772
+REAL_039_0069_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0069 (5).jpg,REAL,0,original,0.3785631060600281
+REAL_039_0069_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0069 (5).jpg,REAL,0,suppress_high,0.3782532811164856
+REAL_039_0069_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0069 (5).jpg,REAL,0,remove_checkerboard,0.3236524760723114
+REAL_039_0069_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0069 (5).jpg,REAL,0,low_pass,0.24854110181331635
+REAL_039_0069_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0069 (5).jpg,REAL,0,slight_mask,0.24854110181331635
+REAL_040_0967_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0967 (8).jpg,REAL,0,original,0.4385412037372589
+REAL_040_0967_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0967 (8).jpg,REAL,0,suppress_high,0.43067267537117004
+REAL_040_0967_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0967 (8).jpg,REAL,0,remove_checkerboard,0.40074387192726135
+REAL_040_0967_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0967 (8).jpg,REAL,0,low_pass,0.3475494384765625
+REAL_040_0967_(8),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0967 (8).jpg,REAL,0,slight_mask,0.3475494384765625
+REAL_041_0591_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0591 (9).jpg,REAL,0,original,0.5602306127548218
+REAL_041_0591_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0591 (9).jpg,REAL,0,suppress_high,0.5622984766960144
+REAL_041_0591_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0591 (9).jpg,REAL,0,remove_checkerboard,0.43236279487609863
+REAL_041_0591_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0591 (9).jpg,REAL,0,low_pass,0.3463100492954254
+REAL_041_0591_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0591 (9).jpg,REAL,0,slight_mask,0.3463100492954254
+REAL_042_0490_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0490 (9).jpg,REAL,0,original,0.33209171891212463
+REAL_042_0490_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0490 (9).jpg,REAL,0,suppress_high,0.34049952030181885
+REAL_042_0490_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0490 (9).jpg,REAL,0,remove_checkerboard,0.3027946949005127
+REAL_042_0490_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0490 (9).jpg,REAL,0,low_pass,0.3888799548149109
+REAL_042_0490_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0490 (9).jpg,REAL,0,slight_mask,0.3888799548149109
+REAL_043_0155_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0155 (5).jpg,REAL,0,original,0.44256356358528137
+REAL_043_0155_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0155 (5).jpg,REAL,0,suppress_high,0.4380907118320465
+REAL_043_0155_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0155 (5).jpg,REAL,0,remove_checkerboard,0.37430158257484436
+REAL_043_0155_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0155 (5).jpg,REAL,0,low_pass,0.30797842144966125
+REAL_043_0155_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0155 (5).jpg,REAL,0,slight_mask,0.30797842144966125
+REAL_044_0572_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0572 (9).jpg,REAL,0,original,0.6253678798675537
+REAL_044_0572_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0572 (9).jpg,REAL,0,suppress_high,0.6294645667076111
+REAL_044_0572_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0572 (9).jpg,REAL,0,remove_checkerboard,0.6406600475311279
+REAL_044_0572_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0572 (9).jpg,REAL,0,low_pass,0.5787982940673828
+REAL_044_0572_(9),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0572 (9).jpg,REAL,0,slight_mask,0.5787982940673828
+REAL_045_0046_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0046 (7).jpg,REAL,0,original,0.4714815020561218
+REAL_045_0046_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0046 (7).jpg,REAL,0,suppress_high,0.46730828285217285
+REAL_045_0046_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0046 (7).jpg,REAL,0,remove_checkerboard,0.39495012164115906
+REAL_045_0046_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0046 (7).jpg,REAL,0,low_pass,0.35193291306495667
+REAL_045_0046_(7),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0046 (7).jpg,REAL,0,slight_mask,0.35193291306495667
+REAL_046_0798_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0798 (5).jpg,REAL,0,original,0.4308954179286957
+REAL_046_0798_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0798 (5).jpg,REAL,0,suppress_high,0.4171978235244751
+REAL_046_0798_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0798 (5).jpg,REAL,0,remove_checkerboard,0.33476459980010986
+REAL_046_0798_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0798 (5).jpg,REAL,0,low_pass,0.236314058303833
+REAL_046_0798_(5),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0798 (5).jpg,REAL,0,slight_mask,0.236314058303833
+REAL_047_0677_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0677 (3).jpg,REAL,0,original,0.5847674608230591
+REAL_047_0677_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0677 (3).jpg,REAL,0,suppress_high,0.5770097374916077
+REAL_047_0677_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0677 (3).jpg,REAL,0,remove_checkerboard,0.6043932437896729
+REAL_047_0677_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0677 (3).jpg,REAL,0,low_pass,0.7041272521018982
+REAL_047_0677_(3),C:\Users\Vedha\feb hack\Feb-2026-Hackathon\dataset\test\REAL\0677 (3).jpg,REAL,0,slight_mask,0.7041272521018982

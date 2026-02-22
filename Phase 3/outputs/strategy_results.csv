@@ -1,0 +1,1501 @@
+sample_id,true_label,strategy,stage,parameter,confidence,flipped
+0 (10).jpg,FAKE,original,original,0.0,0.826119065284729,False
+0 (10).jpg,FAKE,A_blur,blur_0.3,0.3,0.826119065284729,False
+0 (10).jpg,FAKE,A_blur,blur_0.5,0.5,0.8421155214309692,False
+0 (10).jpg,FAKE,A_blur,blur_0.8,0.8,0.8224578499794006,False
+0 (10).jpg,FAKE,A_blur,blur_1.0,1.0,0.8224578499794006,False
+0 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8451008796691895,False
+0 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8457019925117493,False
+0 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8338069319725037,False
+0 (10).jpg,FAKE,B_noise,noise_0.01,0.01,0.82753586769104,False
+0 (10).jpg,FAKE,B_noise,noise_0.02,0.02,0.8234383463859558,False
+0 (10).jpg,FAKE,B_noise,noise_0.03,0.03,0.8280775547027588,False
+0 (10).jpg,FAKE,B_noise,noise_0.05,0.05,0.8226124048233032,False
+0 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.830106258392334,False
+0 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8254454135894775,False
+0 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8258920907974243,False
+0 (2).jpg,FAKE,original,original,0.0,0.8381488919258118,False
+0 (2).jpg,FAKE,A_blur,blur_0.3,0.3,0.8381488919258118,False
+0 (2).jpg,FAKE,A_blur,blur_0.5,0.5,0.8405643105506897,False
+0 (2).jpg,FAKE,A_blur,blur_0.8,0.8,0.8263841867446899,False
+0 (2).jpg,FAKE,A_blur,blur_1.0,1.0,0.8263841867446899,False
+0 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8458412885665894,False
+0 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8474438786506653,False
+0 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8518806099891663,False
+0 (2).jpg,FAKE,B_noise,noise_0.01,0.01,0.8380036950111389,False
+0 (2).jpg,FAKE,B_noise,noise_0.02,0.02,0.8384677171707153,False
+0 (2).jpg,FAKE,B_noise,noise_0.03,0.03,0.8352546095848083,False
+0 (2).jpg,FAKE,B_noise,noise_0.05,0.05,0.8247469663619995,False
+0 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8381018042564392,False
+0 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8352029323577881,False
+0 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8311254382133484,False
+0 (3).jpg,FAKE,original,original,0.0,0.8512271046638489,False
+0 (3).jpg,FAKE,A_blur,blur_0.3,0.3,0.8512271046638489,False
+0 (3).jpg,FAKE,A_blur,blur_0.5,0.5,0.8230485320091248,False
+0 (3).jpg,FAKE,A_blur,blur_0.8,0.8,0.8024827837944031,False
+0 (3).jpg,FAKE,A_blur,blur_1.0,1.0,0.8024827837944031,False
+0 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.830908477306366,False
+0 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8221619725227356,False
+0 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8165430426597595,False
+0 (3).jpg,FAKE,B_noise,noise_0.01,0.01,0.8508762121200562,False
+0 (3).jpg,FAKE,B_noise,noise_0.02,0.02,0.846735954284668,False
+0 (3).jpg,FAKE,B_noise,noise_0.03,0.03,0.8467491269111633,False
+0 (3).jpg,FAKE,B_noise,noise_0.05,0.05,0.8443405032157898,False
+0 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8420888781547546,False
+0 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8429380655288696,False
+0 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8496875762939453,False
+0 (4).jpg,FAKE,original,original,0.0,0.8472780585289001,False
+0 (4).jpg,FAKE,A_blur,blur_0.3,0.3,0.8472780585289001,False
+0 (4).jpg,FAKE,A_blur,blur_0.5,0.5,0.8338654637336731,False
+0 (4).jpg,FAKE,A_blur,blur_0.8,0.8,0.8112480044364929,False
+0 (4).jpg,FAKE,A_blur,blur_1.0,1.0,0.8112480044364929,False
+0 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8232023119926453,False
+0 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8431641459465027,False
+0 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8462585210800171,False
+0 (4).jpg,FAKE,B_noise,noise_0.01,0.01,0.8466153144836426,False
+0 (4).jpg,FAKE,B_noise,noise_0.02,0.02,0.8461577892303467,False
+0 (4).jpg,FAKE,B_noise,noise_0.03,0.03,0.8417410850524902,False
+0 (4).jpg,FAKE,B_noise,noise_0.05,0.05,0.8321316242218018,False
+0 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8447865843772888,False
+0 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8448596596717834,False
+0 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8422520160675049,False
+0 (5).jpg,FAKE,original,original,0.0,0.7910561561584473,False
+0 (5).jpg,FAKE,A_blur,blur_0.3,0.3,0.7910561561584473,False
+0 (5).jpg,FAKE,A_blur,blur_0.5,0.5,0.8044664859771729,False
+0 (5).jpg,FAKE,A_blur,blur_0.8,0.8,0.79750657081604,False
+0 (5).jpg,FAKE,A_blur,blur_1.0,1.0,0.79750657081604,False
+0 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8197527527809143,False
+0 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8164094686508179,False
+0 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8207664489746094,False
+0 (5).jpg,FAKE,B_noise,noise_0.01,0.01,0.789450466632843,False
+0 (5).jpg,FAKE,B_noise,noise_0.02,0.02,0.7896556258201599,False
+0 (5).jpg,FAKE,B_noise,noise_0.03,0.03,0.7996766567230225,False
+0 (5).jpg,FAKE,B_noise,noise_0.05,0.05,0.7867170572280884,False
+0 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7868604063987732,False
+0 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.791546642780304,False
+0 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7867556214332581,False
+0 (6).jpg,FAKE,original,original,0.0,0.7350339293479919,False
+0 (6).jpg,FAKE,A_blur,blur_0.3,0.3,0.7350339293479919,False
+0 (6).jpg,FAKE,A_blur,blur_0.5,0.5,0.7900898456573486,False
+0 (6).jpg,FAKE,A_blur,blur_0.8,0.8,0.7770595550537109,False
+0 (6).jpg,FAKE,A_blur,blur_1.0,1.0,0.7770595550537109,False
+0 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.7770224809646606,False
+0 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.779904842376709,False
+0 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.763068437576294,False
+0 (6).jpg,FAKE,B_noise,noise_0.01,0.01,0.7380402088165283,False
+0 (6).jpg,FAKE,B_noise,noise_0.02,0.02,0.7374690175056458,False
+0 (6).jpg,FAKE,B_noise,noise_0.03,0.03,0.7498660087585449,False
+0 (6).jpg,FAKE,B_noise,noise_0.05,0.05,0.7360939383506775,False
+0 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7387426495552063,False
+0 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7383769750595093,False
+0 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7332066297531128,False
+0 (7).jpg,FAKE,original,original,0.0,0.8459323644638062,False
+0 (7).jpg,FAKE,A_blur,blur_0.3,0.3,0.8459323644638062,False
+0 (7).jpg,FAKE,A_blur,blur_0.5,0.5,0.8308712840080261,False
+0 (7).jpg,FAKE,A_blur,blur_0.8,0.8,0.8134896159172058,False
+0 (7).jpg,FAKE,A_blur,blur_1.0,1.0,0.8134896159172058,False
+0 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8303862810134888,False
+0 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8324698209762573,False
+0 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.830924391746521,False
+0 (7).jpg,FAKE,B_noise,noise_0.01,0.01,0.846960186958313,False
+0 (7).jpg,FAKE,B_noise,noise_0.02,0.02,0.8494182825088501,False
+0 (7).jpg,FAKE,B_noise,noise_0.03,0.03,0.8571349382400513,False
+0 (7).jpg,FAKE,B_noise,noise_0.05,0.05,0.8483666777610779,False
+0 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8478805422782898,False
+0 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8410382270812988,False
+0 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8424834609031677,False
+0 (8).jpg,FAKE,original,original,0.0,0.8441978096961975,False
+0 (8).jpg,FAKE,A_blur,blur_0.3,0.3,0.8441978096961975,False
+0 (8).jpg,FAKE,A_blur,blur_0.5,0.5,0.8397032022476196,False
+0 (8).jpg,FAKE,A_blur,blur_0.8,0.8,0.8315380811691284,False
+0 (8).jpg,FAKE,A_blur,blur_1.0,1.0,0.8315380811691284,False
+0 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8480225205421448,False
+0 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8327116966247559,False
+0 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8284896612167358,False
+0 (8).jpg,FAKE,B_noise,noise_0.01,0.01,0.843004584312439,False
+0 (8).jpg,FAKE,B_noise,noise_0.02,0.02,0.8470577597618103,False
+0 (8).jpg,FAKE,B_noise,noise_0.03,0.03,0.8363609910011292,False
+0 (8).jpg,FAKE,B_noise,noise_0.05,0.05,0.8331881761550903,False
+0 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8410755395889282,False
+0 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.839755654335022,False
+0 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8408198952674866,False
+0 (9).jpg,FAKE,original,original,0.0,0.8215546607971191,False
+0 (9).jpg,FAKE,A_blur,blur_0.3,0.3,0.8215546607971191,False
+0 (9).jpg,FAKE,A_blur,blur_0.5,0.5,0.856328010559082,False
+0 (9).jpg,FAKE,A_blur,blur_0.8,0.8,0.8292967081069946,False
+0 (9).jpg,FAKE,A_blur,blur_1.0,1.0,0.8292967081069946,False
+0 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8583653569221497,False
+0 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8573566675186157,False
+0 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8585940599441528,False
+0 (9).jpg,FAKE,B_noise,noise_0.01,0.01,0.8218282461166382,False
+0 (9).jpg,FAKE,B_noise,noise_0.02,0.02,0.829827606678009,False
+0 (9).jpg,FAKE,B_noise,noise_0.03,0.03,0.8135615587234497,False
+0 (9).jpg,FAKE,B_noise,noise_0.05,0.05,0.8021743297576904,False
+0 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8182964324951172,False
+0 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8089345097541809,False
+0 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8130486011505127,False
+0.jpg,FAKE,original,original,0.0,0.8419107794761658,False
+0.jpg,FAKE,A_blur,blur_0.3,0.3,0.8419107794761658,False
+0.jpg,FAKE,A_blur,blur_0.5,0.5,0.840254008769989,False
+0.jpg,FAKE,A_blur,blur_0.8,0.8,0.8284910917282104,False
+0.jpg,FAKE,A_blur,blur_1.0,1.0,0.8284910917282104,False
+0.jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8252840638160706,False
+0.jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8431888222694397,False
+0.jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.840259850025177,False
+0.jpg,FAKE,B_noise,noise_0.01,0.01,0.8403146266937256,False
+0.jpg,FAKE,B_noise,noise_0.02,0.02,0.8421885967254639,False
+0.jpg,FAKE,B_noise,noise_0.03,0.03,0.8377259969711304,False
+0.jpg,FAKE,B_noise,noise_0.05,0.05,0.837571918964386,False
+0.jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8406174182891846,False
+0.jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.838689386844635,False
+0.jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.844428300857544,False
+1 (10).jpg,FAKE,original,original,0.0,0.811093270778656,False
+1 (10).jpg,FAKE,A_blur,blur_0.3,0.3,0.811093270778656,False
+1 (10).jpg,FAKE,A_blur,blur_0.5,0.5,0.8491055965423584,False
+1 (10).jpg,FAKE,A_blur,blur_0.8,0.8,0.836576521396637,False
+1 (10).jpg,FAKE,A_blur,blur_1.0,1.0,0.836576521396637,False
+1 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8489865660667419,False
+1 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8412573933601379,False
+1 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8352698683738708,False
+1 (10).jpg,FAKE,B_noise,noise_0.01,0.01,0.8166818618774414,False
+1 (10).jpg,FAKE,B_noise,noise_0.02,0.02,0.8111729621887207,False
+1 (10).jpg,FAKE,B_noise,noise_0.03,0.03,0.8158921599388123,False
+1 (10).jpg,FAKE,B_noise,noise_0.05,0.05,0.8034911751747131,False
+1 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8137961030006409,False
+1 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8115410804748535,False
+1 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8114643096923828,False
+1 (2).jpg,FAKE,original,original,0.0,0.7639666199684143,False
+1 (2).jpg,FAKE,A_blur,blur_0.3,0.3,0.7639666199684143,False
+1 (2).jpg,FAKE,A_blur,blur_0.5,0.5,0.7715625166893005,False
+1 (2).jpg,FAKE,A_blur,blur_0.8,0.8,0.7799490690231323,False
+1 (2).jpg,FAKE,A_blur,blur_1.0,1.0,0.7799490690231323,False
+1 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.7871350646018982,False
+1 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.7861629128456116,False
+1 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.7982296347618103,False
+1 (2).jpg,FAKE,B_noise,noise_0.01,0.01,0.7650336027145386,False
+1 (2).jpg,FAKE,B_noise,noise_0.02,0.02,0.7690744996070862,False
+1 (2).jpg,FAKE,B_noise,noise_0.03,0.03,0.7691553831100464,False
+1 (2).jpg,FAKE,B_noise,noise_0.05,0.05,0.7728558778762817,False
+1 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7682350873947144,False
+1 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7704800963401794,False
+1 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7623435258865356,False
+1 (3).jpg,FAKE,original,original,0.0,0.8115858435630798,False
+1 (3).jpg,FAKE,A_blur,blur_0.3,0.3,0.8115858435630798,False
+1 (3).jpg,FAKE,A_blur,blur_0.5,0.5,0.8054311871528625,False
+1 (3).jpg,FAKE,A_blur,blur_0.8,0.8,0.8046041131019592,False
+1 (3).jpg,FAKE,A_blur,blur_1.0,1.0,0.8046041131019592,False
+1 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.7985547184944153,False
+1 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.811110258102417,False
+1 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8059530258178711,False
+1 (3).jpg,FAKE,B_noise,noise_0.01,0.01,0.8120135068893433,False
+1 (3).jpg,FAKE,B_noise,noise_0.02,0.02,0.8161219954490662,False
+1 (3).jpg,FAKE,B_noise,noise_0.03,0.03,0.8059724569320679,False
+1 (3).jpg,FAKE,B_noise,noise_0.05,0.05,0.8278530836105347,False
+1 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.818088948726654,False
+1 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8152645230293274,False
+1 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8141669034957886,False
+1 (4).jpg,FAKE,original,original,0.0,0.8079463243484497,False
+1 (4).jpg,FAKE,A_blur,blur_0.3,0.3,0.8079463243484497,False
+1 (4).jpg,FAKE,A_blur,blur_0.5,0.5,0.8330052495002747,False
+1 (4).jpg,FAKE,A_blur,blur_0.8,0.8,0.8171918988227844,False
+1 (4).jpg,FAKE,A_blur,blur_1.0,1.0,0.8171918988227844,False
+1 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8382900953292847,False
+1 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8259280323982239,False
+1 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8060258626937866,False
+1 (4).jpg,FAKE,B_noise,noise_0.01,0.01,0.8075895309448242,False
+1 (4).jpg,FAKE,B_noise,noise_0.02,0.02,0.7992519736289978,False
+1 (4).jpg,FAKE,B_noise,noise_0.03,0.03,0.8030916452407837,False
+1 (4).jpg,FAKE,B_noise,noise_0.05,0.05,0.8197057247161865,False
+1 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8030674457550049,False
+1 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.797693133354187,False
+1 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7912732362747192,False
+1 (5).jpg,FAKE,original,original,0.0,0.8439815044403076,False
+1 (5).jpg,FAKE,A_blur,blur_0.3,0.3,0.8439815044403076,False
+1 (5).jpg,FAKE,A_blur,blur_0.5,0.5,0.8522937893867493,False
+1 (5).jpg,FAKE,A_blur,blur_0.8,0.8,0.8350586295127869,False
+1 (5).jpg,FAKE,A_blur,blur_1.0,1.0,0.8350586295127869,False
+1 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8574258685112,False
+1 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8501513004302979,False
+1 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8447904586791992,False
+1 (5).jpg,FAKE,B_noise,noise_0.01,0.01,0.846634030342102,False
+1 (5).jpg,FAKE,B_noise,noise_0.02,0.02,0.846213698387146,False
+1 (5).jpg,FAKE,B_noise,noise_0.03,0.03,0.8387272953987122,False
+1 (5).jpg,FAKE,B_noise,noise_0.05,0.05,0.837355375289917,False
+1 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8498425483703613,False
+1 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8400824666023254,False
+1 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8400057554244995,False
+1 (6).jpg,FAKE,original,original,0.0,0.8192816376686096,False
+1 (6).jpg,FAKE,A_blur,blur_0.3,0.3,0.8192816376686096,False
+1 (6).jpg,FAKE,A_blur,blur_0.5,0.5,0.8289040923118591,False
+1 (6).jpg,FAKE,A_blur,blur_0.8,0.8,0.8251606822013855,False
+1 (6).jpg,FAKE,A_blur,blur_1.0,1.0,0.8251606822013855,False
+1 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8445300459861755,False
+1 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8471713066101074,False
+1 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8431938290596008,False
+1 (6).jpg,FAKE,B_noise,noise_0.01,0.01,0.8182389736175537,False
+1 (6).jpg,FAKE,B_noise,noise_0.02,0.02,0.8184133172035217,False
+1 (6).jpg,FAKE,B_noise,noise_0.03,0.03,0.8168623447418213,False
+1 (6).jpg,FAKE,B_noise,noise_0.05,0.05,0.8269177675247192,False
+1 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8187242150306702,False
+1 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8200482130050659,False
+1 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8163644075393677,False
+1 (7).jpg,FAKE,original,original,0.0,0.8345016837120056,False
+1 (7).jpg,FAKE,A_blur,blur_0.3,0.3,0.8345016837120056,False
+1 (7).jpg,FAKE,A_blur,blur_0.5,0.5,0.8415354490280151,False
+1 (7).jpg,FAKE,A_blur,blur_0.8,0.8,0.8304919600486755,False
+1 (7).jpg,FAKE,A_blur,blur_1.0,1.0,0.8304919600486755,False
+1 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8417829871177673,False
+1 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.834336519241333,False
+1 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8218030333518982,False
+1 (7).jpg,FAKE,B_noise,noise_0.01,0.01,0.8325806260108948,False
+1 (7).jpg,FAKE,B_noise,noise_0.02,0.02,0.8302767276763916,False
+1 (7).jpg,FAKE,B_noise,noise_0.03,0.03,0.8267115950584412,False
+1 (7).jpg,FAKE,B_noise,noise_0.05,0.05,0.829994797706604,False
+1 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8297833800315857,False
+1 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8294150829315186,False
+1 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.826755702495575,False
+1 (8).jpg,FAKE,original,original,0.0,0.8208694458007812,False
+1 (8).jpg,FAKE,A_blur,blur_0.3,0.3,0.8208694458007812,False
+1 (8).jpg,FAKE,A_blur,blur_0.5,0.5,0.8234307765960693,False
+1 (8).jpg,FAKE,A_blur,blur_0.8,0.8,0.8138422966003418,False
+1 (8).jpg,FAKE,A_blur,blur_1.0,1.0,0.8138422966003418,False
+1 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8214495778083801,False
+1 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8156508803367615,False
+1 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8092837333679199,False
+1 (8).jpg,FAKE,B_noise,noise_0.01,0.01,0.8223518133163452,False
+1 (8).jpg,FAKE,B_noise,noise_0.02,0.02,0.8175207376480103,False
+1 (8).jpg,FAKE,B_noise,noise_0.03,0.03,0.815986156463623,False
+1 (8).jpg,FAKE,B_noise,noise_0.05,0.05,0.8128625154495239,False
+1 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8139888644218445,False
+1 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8225119709968567,False
+1 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8162239193916321,False
+1 (9).jpg,FAKE,original,original,0.0,0.8308345079421997,False
+1 (9).jpg,FAKE,A_blur,blur_0.3,0.3,0.8308345079421997,False
+1 (9).jpg,FAKE,A_blur,blur_0.5,0.5,0.8450347781181335,False
+1 (9).jpg,FAKE,A_blur,blur_0.8,0.8,0.8265896439552307,False
+1 (9).jpg,FAKE,A_blur,blur_1.0,1.0,0.8265896439552307,False
+1 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8517389893531799,False
+1 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8573045134544373,False
+1 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.854942798614502,False
+1 (9).jpg,FAKE,B_noise,noise_0.01,0.01,0.8309184908866882,False
+1 (9).jpg,FAKE,B_noise,noise_0.02,0.02,0.8285422921180725,False
+1 (9).jpg,FAKE,B_noise,noise_0.03,0.03,0.8316869735717773,False
+1 (9).jpg,FAKE,B_noise,noise_0.05,0.05,0.8233781456947327,False
+1 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8317703008651733,False
+1 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8278330564498901,False
+1 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8225796222686768,False
+1.jpg,FAKE,original,original,0.0,0.8412143588066101,False
+1.jpg,FAKE,A_blur,blur_0.3,0.3,0.8412143588066101,False
+1.jpg,FAKE,A_blur,blur_0.5,0.5,0.8116884231567383,False
+1.jpg,FAKE,A_blur,blur_0.8,0.8,0.8007314801216125,False
+1.jpg,FAKE,A_blur,blur_1.0,1.0,0.8007314801216125,False
+1.jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8275039792060852,False
+1.jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8307691216468811,False
+1.jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.820858895778656,False
+1.jpg,FAKE,B_noise,noise_0.01,0.01,0.8413349986076355,False
+1.jpg,FAKE,B_noise,noise_0.02,0.02,0.8469035625457764,False
+1.jpg,FAKE,B_noise,noise_0.03,0.03,0.8527254462242126,False
+1.jpg,FAKE,B_noise,noise_0.05,0.05,0.8565425872802734,False
+1.jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8472407460212708,False
+1.jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8452697396278381,False
+1.jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8403003215789795,False
+10 (10).jpg,FAKE,original,original,0.0,0.828253984451294,False
+10 (10).jpg,FAKE,A_blur,blur_0.3,0.3,0.828253984451294,False
+10 (10).jpg,FAKE,A_blur,blur_0.5,0.5,0.8513011932373047,False
+10 (10).jpg,FAKE,A_blur,blur_0.8,0.8,0.8460094332695007,False
+10 (10).jpg,FAKE,A_blur,blur_1.0,1.0,0.8460094332695007,False
+10 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8472235798835754,False
+10 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8492284417152405,False
+10 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8517377972602844,False
+10 (10).jpg,FAKE,B_noise,noise_0.01,0.01,0.8287683129310608,False
+10 (10).jpg,FAKE,B_noise,noise_0.02,0.02,0.8287663459777832,False
+10 (10).jpg,FAKE,B_noise,noise_0.03,0.03,0.8207373023033142,False
+10 (10).jpg,FAKE,B_noise,noise_0.05,0.05,0.8085363507270813,False
+10 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8265185356140137,False
+10 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8229600787162781,False
+10 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8182741403579712,False
+10 (2).jpg,FAKE,original,original,0.0,0.812035858631134,False
+10 (2).jpg,FAKE,A_blur,blur_0.3,0.3,0.812035858631134,False
+10 (2).jpg,FAKE,A_blur,blur_0.5,0.5,0.8110211491584778,False
+10 (2).jpg,FAKE,A_blur,blur_0.8,0.8,0.808087170124054,False
+10 (2).jpg,FAKE,A_blur,blur_1.0,1.0,0.808087170124054,False
+10 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8075965046882629,False
+10 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8155951499938965,False
+10 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8215500712394714,False
+10 (2).jpg,FAKE,B_noise,noise_0.01,0.01,0.8110753297805786,False
+10 (2).jpg,FAKE,B_noise,noise_0.02,0.02,0.8090324401855469,False
+10 (2).jpg,FAKE,B_noise,noise_0.03,0.03,0.814052402973175,False
+10 (2).jpg,FAKE,B_noise,noise_0.05,0.05,0.8170342445373535,False
+10 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.813401997089386,False
+10 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8117119073867798,False
+10 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8141400218009949,False
+10 (3).jpg,FAKE,original,original,0.0,0.8036568760871887,False
+10 (3).jpg,FAKE,A_blur,blur_0.3,0.3,0.8036568760871887,False
+10 (3).jpg,FAKE,A_blur,blur_0.5,0.5,0.7987893223762512,False
+10 (3).jpg,FAKE,A_blur,blur_0.8,0.8,0.7980160117149353,False
+10 (3).jpg,FAKE,A_blur,blur_1.0,1.0,0.7980160117149353,False
+10 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8089979290962219,False
+10 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8052904009819031,False
+10 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8065207004547119,False
+10 (3).jpg,FAKE,B_noise,noise_0.01,0.01,0.8039487600326538,False
+10 (3).jpg,FAKE,B_noise,noise_0.02,0.02,0.8082946538925171,False
+10 (3).jpg,FAKE,B_noise,noise_0.03,0.03,0.8033352494239807,False
+10 (3).jpg,FAKE,B_noise,noise_0.05,0.05,0.8181877136230469,False
+10 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8031458854675293,False
+10 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8023170828819275,False
+10 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8014286160469055,False
+10 (4).jpg,FAKE,original,original,0.0,0.8011780381202698,False
+10 (4).jpg,FAKE,A_blur,blur_0.3,0.3,0.8011780381202698,False
+10 (4).jpg,FAKE,A_blur,blur_0.5,0.5,0.8233023881912231,False
+10 (4).jpg,FAKE,A_blur,blur_0.8,0.8,0.809508204460144,False
+10 (4).jpg,FAKE,A_blur,blur_1.0,1.0,0.809508204460144,False
+10 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8176141381263733,False
+10 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8210864067077637,False
+10 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8277251124382019,False
+10 (4).jpg,FAKE,B_noise,noise_0.01,0.01,0.7992953658103943,False
+10 (4).jpg,FAKE,B_noise,noise_0.02,0.02,0.8030879497528076,False
+10 (4).jpg,FAKE,B_noise,noise_0.03,0.03,0.8028120398521423,False
+10 (4).jpg,FAKE,B_noise,noise_0.05,0.05,0.7816448211669922,False
+10 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8040170073509216,False
+10 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7999752163887024,False
+10 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7922902703285217,False
+10 (5).jpg,FAKE,original,original,0.0,0.8283776640892029,False
+10 (5).jpg,FAKE,A_blur,blur_0.3,0.3,0.8283776640892029,False
+10 (5).jpg,FAKE,A_blur,blur_0.5,0.5,0.8200445771217346,False
+10 (5).jpg,FAKE,A_blur,blur_0.8,0.8,0.8138978481292725,False
+10 (5).jpg,FAKE,A_blur,blur_1.0,1.0,0.8138978481292725,False
+10 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8422060608863831,False
+10 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8457936644554138,False
+10 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8455013632774353,False
+10 (5).jpg,FAKE,B_noise,noise_0.01,0.01,0.8290301561355591,False
+10 (5).jpg,FAKE,B_noise,noise_0.02,0.02,0.8359999060630798,False
+10 (5).jpg,FAKE,B_noise,noise_0.03,0.03,0.8401982188224792,False
+10 (5).jpg,FAKE,B_noise,noise_0.05,0.05,0.8274900317192078,False
+10 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8320639133453369,False
+10 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8327332735061646,False
+10 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8368160128593445,False
+10 (6).jpg,FAKE,original,original,0.0,0.8608550429344177,False
+10 (6).jpg,FAKE,A_blur,blur_0.3,0.3,0.8608550429344177,False
+10 (6).jpg,FAKE,A_blur,blur_0.5,0.5,0.8438654541969299,False
+10 (6).jpg,FAKE,A_blur,blur_0.8,0.8,0.8342161178588867,False
+10 (6).jpg,FAKE,A_blur,blur_1.0,1.0,0.8342161178588867,False
+10 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8509175181388855,False
+10 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8496471643447876,False
+10 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8452711701393127,False
+10 (6).jpg,FAKE,B_noise,noise_0.01,0.01,0.8623399138450623,False
+10 (6).jpg,FAKE,B_noise,noise_0.02,0.02,0.8571879267692566,False
+10 (6).jpg,FAKE,B_noise,noise_0.03,0.03,0.8580477833747864,False
+10 (6).jpg,FAKE,B_noise,noise_0.05,0.05,0.8501972556114197,False
+10 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8612874150276184,False
+10 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8576974868774414,False
+10 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.855606198310852,False
+10 (7).jpg,FAKE,original,original,0.0,0.8647496700286865,False
+10 (7).jpg,FAKE,A_blur,blur_0.3,0.3,0.8647496700286865,False
+10 (7).jpg,FAKE,A_blur,blur_0.5,0.5,0.8598908185958862,False
+10 (7).jpg,FAKE,A_blur,blur_0.8,0.8,0.8502280116081238,False
+10 (7).jpg,FAKE,A_blur,blur_1.0,1.0,0.8502280116081238,False
+10 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8739661574363708,False
+10 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8710150122642517,False
+10 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8640720844268799,False
+10 (7).jpg,FAKE,B_noise,noise_0.01,0.01,0.8656314015388489,False
+10 (7).jpg,FAKE,B_noise,noise_0.02,0.02,0.8677474856376648,False
+10 (7).jpg,FAKE,B_noise,noise_0.03,0.03,0.8690077066421509,False
+10 (7).jpg,FAKE,B_noise,noise_0.05,0.05,0.8757048845291138,False
+10 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8692880272865295,False
+10 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8634135127067566,False
+10 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8661220073699951,False
+10 (8).jpg,FAKE,original,original,0.0,0.8156132698059082,False
+10 (8).jpg,FAKE,A_blur,blur_0.3,0.3,0.8156132698059082,False
+10 (8).jpg,FAKE,A_blur,blur_0.5,0.5,0.802573561668396,False
+10 (8).jpg,FAKE,A_blur,blur_0.8,0.8,0.8013808727264404,False
+10 (8).jpg,FAKE,A_blur,blur_1.0,1.0,0.8013808727264404,False
+10 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8110209703445435,False
+10 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8093671202659607,False
+10 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8098142743110657,False
+10 (8).jpg,FAKE,B_noise,noise_0.01,0.01,0.8181319832801819,False
+10 (8).jpg,FAKE,B_noise,noise_0.02,0.02,0.81587815284729,False
+10 (8).jpg,FAKE,B_noise,noise_0.03,0.03,0.8150789141654968,False
+10 (8).jpg,FAKE,B_noise,noise_0.05,0.05,0.789006233215332,False
+10 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8130069375038147,False
+10 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8124086260795593,False
+10 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8166240453720093,False
+10 (9).jpg,FAKE,original,original,0.0,0.8083099722862244,False
+10 (9).jpg,FAKE,A_blur,blur_0.3,0.3,0.8083099722862244,False
+10 (9).jpg,FAKE,A_blur,blur_0.5,0.5,0.7859112620353699,False
+10 (9).jpg,FAKE,A_blur,blur_0.8,0.8,0.7794097065925598,False
+10 (9).jpg,FAKE,A_blur,blur_1.0,1.0,0.7794097065925598,False
+10 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.7941973805427551,False
+10 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8020628690719604,False
+10 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8040429949760437,False
+10 (9).jpg,FAKE,B_noise,noise_0.01,0.01,0.809776246547699,False
+10 (9).jpg,FAKE,B_noise,noise_0.02,0.02,0.8099380731582642,False
+10 (9).jpg,FAKE,B_noise,noise_0.03,0.03,0.8104561567306519,False
+10 (9).jpg,FAKE,B_noise,noise_0.05,0.05,0.8339830040931702,False
+10 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8070380687713623,False
+10 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8157172799110413,False
+10 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8143161535263062,False
+10.jpg,FAKE,original,original,0.0,0.8465679287910461,False
+10.jpg,FAKE,A_blur,blur_0.3,0.3,0.8465679287910461,False
+10.jpg,FAKE,A_blur,blur_0.5,0.5,0.8409291505813599,False
+10.jpg,FAKE,A_blur,blur_0.8,0.8,0.8315183520317078,False
+10.jpg,FAKE,A_blur,blur_1.0,1.0,0.8315183520317078,False
+10.jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8534520864486694,False
+10.jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8413742184638977,False
+10.jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8452616333961487,False
+10.jpg,FAKE,B_noise,noise_0.01,0.01,0.8497611880302429,False
+10.jpg,FAKE,B_noise,noise_0.02,0.02,0.8422237038612366,False
+10.jpg,FAKE,B_noise,noise_0.03,0.03,0.8442673087120056,False
+10.jpg,FAKE,B_noise,noise_0.05,0.05,0.8483067154884338,False
+10.jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8437014818191528,False
+10.jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8411107659339905,False
+10.jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8438686728477478,False
+100 (10).jpg,FAKE,original,original,0.0,0.8344229459762573,False
+100 (10).jpg,FAKE,A_blur,blur_0.3,0.3,0.8344229459762573,False
+100 (10).jpg,FAKE,A_blur,blur_0.5,0.5,0.8237086534500122,False
+100 (10).jpg,FAKE,A_blur,blur_0.8,0.8,0.808032751083374,False
+100 (10).jpg,FAKE,A_blur,blur_1.0,1.0,0.808032751083374,False
+100 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8291261196136475,False
+100 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8181670904159546,False
+100 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.824245035648346,False
+100 (10).jpg,FAKE,B_noise,noise_0.01,0.01,0.8369826674461365,False
+100 (10).jpg,FAKE,B_noise,noise_0.02,0.02,0.8351591229438782,False
+100 (10).jpg,FAKE,B_noise,noise_0.03,0.03,0.8437994122505188,False
+100 (10).jpg,FAKE,B_noise,noise_0.05,0.05,0.8263033628463745,False
+100 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8326197266578674,False
+100 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8216144442558289,False
+100 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.824824333190918,False
+100 (2).jpg,FAKE,original,original,0.0,0.82090824842453,False
+100 (2).jpg,FAKE,A_blur,blur_0.3,0.3,0.82090824842453,False
+100 (2).jpg,FAKE,A_blur,blur_0.5,0.5,0.8457563519477844,False
+100 (2).jpg,FAKE,A_blur,blur_0.8,0.8,0.8500803112983704,False
+100 (2).jpg,FAKE,A_blur,blur_1.0,1.0,0.8500803112983704,False
+100 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8194325566291809,False
+100 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8419928550720215,False
+100 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8474335074424744,False
+100 (2).jpg,FAKE,B_noise,noise_0.01,0.01,0.8188524842262268,False
+100 (2).jpg,FAKE,B_noise,noise_0.02,0.02,0.8215415477752686,False
+100 (2).jpg,FAKE,B_noise,noise_0.03,0.03,0.8209323883056641,False
+100 (2).jpg,FAKE,B_noise,noise_0.05,0.05,0.8033446669578552,False
+100 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8147955536842346,False
+100 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.821403980255127,False
+100 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8048598170280457,False
+100 (3).jpg,FAKE,original,original,0.0,0.8311147093772888,False
+100 (3).jpg,FAKE,A_blur,blur_0.3,0.3,0.8311147093772888,False
+100 (3).jpg,FAKE,A_blur,blur_0.5,0.5,0.8270223140716553,False
+100 (3).jpg,FAKE,A_blur,blur_0.8,0.8,0.8204118609428406,False
+100 (3).jpg,FAKE,A_blur,blur_1.0,1.0,0.8204118609428406,False
+100 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8391439914703369,False
+100 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8365911245346069,False
+100 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8332469463348389,False
+100 (3).jpg,FAKE,B_noise,noise_0.01,0.01,0.8317120671272278,False
+100 (3).jpg,FAKE,B_noise,noise_0.02,0.02,0.8298977613449097,False
+100 (3).jpg,FAKE,B_noise,noise_0.03,0.03,0.834255039691925,False
+100 (3).jpg,FAKE,B_noise,noise_0.05,0.05,0.8295356631278992,False
+100 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8354588747024536,False
+100 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8348150253295898,False
+100 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8340688943862915,False
+100 (4).jpg,FAKE,original,original,0.0,0.763306736946106,False
+100 (4).jpg,FAKE,A_blur,blur_0.3,0.3,0.763306736946106,False
+100 (4).jpg,FAKE,A_blur,blur_0.5,0.5,0.8184866309165955,False
+100 (4).jpg,FAKE,A_blur,blur_0.8,0.8,0.8185641169548035,False
+100 (4).jpg,FAKE,A_blur,blur_1.0,1.0,0.8185641169548035,False
+100 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8306444883346558,False
+100 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.828437089920044,False
+100 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8258371949195862,False
+100 (4).jpg,FAKE,B_noise,noise_0.01,0.01,0.7627146244049072,False
+100 (4).jpg,FAKE,B_noise,noise_0.02,0.02,0.7686425447463989,False
+100 (4).jpg,FAKE,B_noise,noise_0.03,0.03,0.7550806999206543,False
+100 (4).jpg,FAKE,B_noise,noise_0.05,0.05,0.7715116739273071,False
+100 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7626468539237976,False
+100 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7606892585754395,False
+100 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7611305117607117,False
+100 (5).jpg,FAKE,original,original,0.0,0.8411511778831482,False
+100 (5).jpg,FAKE,A_blur,blur_0.3,0.3,0.8411511778831482,False
+100 (5).jpg,FAKE,A_blur,blur_0.5,0.5,0.8294995427131653,False
+100 (5).jpg,FAKE,A_blur,blur_0.8,0.8,0.8094089031219482,False
+100 (5).jpg,FAKE,A_blur,blur_1.0,1.0,0.8094089031219482,False
+100 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.845427393913269,False
+100 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8350639939308167,False
+100 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.82744300365448,False
+100 (5).jpg,FAKE,B_noise,noise_0.01,0.01,0.8417795300483704,False
+100 (5).jpg,FAKE,B_noise,noise_0.02,0.02,0.8381729125976562,False
+100 (5).jpg,FAKE,B_noise,noise_0.03,0.03,0.8440313935279846,False
+100 (5).jpg,FAKE,B_noise,noise_0.05,0.05,0.8220229148864746,False
+100 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8359740376472473,False
+100 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8409649133682251,False
+100 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8290305733680725,False
+100 (6).jpg,FAKE,original,original,0.0,0.8134739995002747,False
+100 (6).jpg,FAKE,A_blur,blur_0.3,0.3,0.8134739995002747,False
+100 (6).jpg,FAKE,A_blur,blur_0.5,0.5,0.8203991651535034,False
+100 (6).jpg,FAKE,A_blur,blur_0.8,0.8,0.8208661675453186,False
+100 (6).jpg,FAKE,A_blur,blur_1.0,1.0,0.8208661675453186,False
+100 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8401583433151245,False
+100 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8358242511749268,False
+100 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8323323726654053,False
+100 (6).jpg,FAKE,B_noise,noise_0.01,0.01,0.8140201568603516,False
+100 (6).jpg,FAKE,B_noise,noise_0.02,0.02,0.8114850521087646,False
+100 (6).jpg,FAKE,B_noise,noise_0.03,0.03,0.8103014826774597,False
+100 (6).jpg,FAKE,B_noise,noise_0.05,0.05,0.8099508285522461,False
+100 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8105788230895996,False
+100 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8119168281555176,False
+100 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8162152171134949,False
+100 (7).jpg,FAKE,original,original,0.0,0.8044164180755615,False
+100 (7).jpg,FAKE,A_blur,blur_0.3,0.3,0.8044164180755615,False
+100 (7).jpg,FAKE,A_blur,blur_0.5,0.5,0.783191442489624,False
+100 (7).jpg,FAKE,A_blur,blur_0.8,0.8,0.7786608338356018,False
+100 (7).jpg,FAKE,A_blur,blur_1.0,1.0,0.7786608338356018,False
+100 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.7701775431632996,False
+100 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.7602485418319702,False
+100 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.785293698310852,False
+100 (7).jpg,FAKE,B_noise,noise_0.01,0.01,0.8089282512664795,False
+100 (7).jpg,FAKE,B_noise,noise_0.02,0.02,0.8041945695877075,False
+100 (7).jpg,FAKE,B_noise,noise_0.03,0.03,0.7974974513053894,False
+100 (7).jpg,FAKE,B_noise,noise_0.05,0.05,0.7998783588409424,False
+100 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8079236149787903,False
+100 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8059303760528564,False
+100 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.807671308517456,False
+100 (8).jpg,FAKE,original,original,0.0,0.7467889189720154,False
+100 (8).jpg,FAKE,A_blur,blur_0.3,0.3,0.7467889189720154,False
+100 (8).jpg,FAKE,A_blur,blur_0.5,0.5,0.830646812915802,False
+100 (8).jpg,FAKE,A_blur,blur_0.8,0.8,0.7971076369285583,False
+100 (8).jpg,FAKE,A_blur,blur_1.0,1.0,0.7971076369285583,False
+100 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8108315467834473,False
+100 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8162394762039185,False
+100 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8012010455131531,False
+100 (8).jpg,FAKE,B_noise,noise_0.01,0.01,0.7419811487197876,False
+100 (8).jpg,FAKE,B_noise,noise_0.02,0.02,0.7393386363983154,False
+100 (8).jpg,FAKE,B_noise,noise_0.03,0.03,0.7352970242500305,False
+100 (8).jpg,FAKE,B_noise,noise_0.05,0.05,0.7592338919639587,False
+100 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7355358004570007,False
+100 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.721339225769043,False
+100 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7438125610351562,False
+100 (9).jpg,FAKE,original,original,0.0,0.807972252368927,False
+100 (9).jpg,FAKE,A_blur,blur_0.3,0.3,0.807972252368927,False
+100 (9).jpg,FAKE,A_blur,blur_0.5,0.5,0.7971261739730835,False
+100 (9).jpg,FAKE,A_blur,blur_0.8,0.8,0.7956438064575195,False
+100 (9).jpg,FAKE,A_blur,blur_1.0,1.0,0.7956438064575195,False
+100 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.806124746799469,False
+100 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8105466365814209,False
+100 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8129259347915649,False
+100 (9).jpg,FAKE,B_noise,noise_0.01,0.01,0.8082393407821655,False
+100 (9).jpg,FAKE,B_noise,noise_0.02,0.02,0.8092049956321716,False
+100 (9).jpg,FAKE,B_noise,noise_0.03,0.03,0.8064180612564087,False
+100 (9).jpg,FAKE,B_noise,noise_0.05,0.05,0.7904477119445801,False
+100 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8080445528030396,False
+100 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8098831176757812,False
+100 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8032381534576416,False
+100.jpg,FAKE,original,original,0.0,0.8488247990608215,False
+100.jpg,FAKE,A_blur,blur_0.3,0.3,0.8488247990608215,False
+100.jpg,FAKE,A_blur,blur_0.5,0.5,0.8199177384376526,False
+100.jpg,FAKE,A_blur,blur_0.8,0.8,0.8012748956680298,False
+100.jpg,FAKE,A_blur,blur_1.0,1.0,0.8012748956680298,False
+100.jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8336141705513,False
+100.jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8269944787025452,False
+100.jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.826659083366394,False
+100.jpg,FAKE,B_noise,noise_0.01,0.01,0.8489637970924377,False
+100.jpg,FAKE,B_noise,noise_0.02,0.02,0.8489466309547424,False
+100.jpg,FAKE,B_noise,noise_0.03,0.03,0.8480538725852966,False
+100.jpg,FAKE,B_noise,noise_0.05,0.05,0.8256154656410217,False
+100.jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8471565246582031,False
+100.jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8479737043380737,False
+100.jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8442355394363403,False
+101 (10).jpg,FAKE,original,original,0.0,0.8024354577064514,False
+101 (10).jpg,FAKE,A_blur,blur_0.3,0.3,0.8024354577064514,False
+101 (10).jpg,FAKE,A_blur,blur_0.5,0.5,0.8191025853157043,False
+101 (10).jpg,FAKE,A_blur,blur_0.8,0.8,0.8158049583435059,False
+101 (10).jpg,FAKE,A_blur,blur_1.0,1.0,0.8158049583435059,False
+101 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8236438035964966,False
+101 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8324885368347168,False
+101 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8350468277931213,False
+101 (10).jpg,FAKE,B_noise,noise_0.01,0.01,0.80229651927948,False
+101 (10).jpg,FAKE,B_noise,noise_0.02,0.02,0.8078399896621704,False
+101 (10).jpg,FAKE,B_noise,noise_0.03,0.03,0.7998108863830566,False
+101 (10).jpg,FAKE,B_noise,noise_0.05,0.05,0.8123193979263306,False
+101 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8187106847763062,False
+101 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8150336146354675,False
+101 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8265793919563293,False
+101 (2).jpg,FAKE,original,original,0.0,0.7785534262657166,False
+101 (2).jpg,FAKE,A_blur,blur_0.3,0.3,0.7785534262657166,False
+101 (2).jpg,FAKE,A_blur,blur_0.5,0.5,0.8123697638511658,False
+101 (2).jpg,FAKE,A_blur,blur_0.8,0.8,0.8136309385299683,False
+101 (2).jpg,FAKE,A_blur,blur_1.0,1.0,0.8136309385299683,False
+101 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8164986968040466,False
+101 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8181565403938293,False
+101 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8192153573036194,False
+101 (2).jpg,FAKE,B_noise,noise_0.01,0.01,0.7776406407356262,False
+101 (2).jpg,FAKE,B_noise,noise_0.02,0.02,0.7760568261146545,False
+101 (2).jpg,FAKE,B_noise,noise_0.03,0.03,0.7697214484214783,False
+101 (2).jpg,FAKE,B_noise,noise_0.05,0.05,0.7818132042884827,False
+101 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7661330699920654,False
+101 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7686073184013367,False
+101 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7765200734138489,False
+101 (3).jpg,FAKE,original,original,0.0,0.8232547640800476,False
+101 (3).jpg,FAKE,A_blur,blur_0.3,0.3,0.8232547640800476,False
+101 (3).jpg,FAKE,A_blur,blur_0.5,0.5,0.8160831928253174,False
+101 (3).jpg,FAKE,A_blur,blur_0.8,0.8,0.7997817993164062,False
+101 (3).jpg,FAKE,A_blur,blur_1.0,1.0,0.7997817993164062,False
+101 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8272209763526917,False
+101 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8309658765792847,False
+101 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8288170099258423,False
+101 (3).jpg,FAKE,B_noise,noise_0.01,0.01,0.8250699043273926,False
+101 (3).jpg,FAKE,B_noise,noise_0.02,0.02,0.8282667994499207,False
+101 (3).jpg,FAKE,B_noise,noise_0.03,0.03,0.8283926248550415,False
+101 (3).jpg,FAKE,B_noise,noise_0.05,0.05,0.8193459510803223,False
+101 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8220970630645752,False
+101 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8249270915985107,False
+101 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8160587549209595,False
+101 (4).jpg,FAKE,original,original,0.0,0.8540933728218079,False
+101 (4).jpg,FAKE,A_blur,blur_0.3,0.3,0.8540933728218079,False
+101 (4).jpg,FAKE,A_blur,blur_0.5,0.5,0.8396093845367432,False
+101 (4).jpg,FAKE,A_blur,blur_0.8,0.8,0.8131272792816162,False
+101 (4).jpg,FAKE,A_blur,blur_1.0,1.0,0.8131272792816162,False
+101 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8274664878845215,False
+101 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8389998078346252,False
+101 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8353443145751953,False
+101 (4).jpg,FAKE,B_noise,noise_0.01,0.01,0.8497981429100037,False
+101 (4).jpg,FAKE,B_noise,noise_0.02,0.02,0.8547003865242004,False
+101 (4).jpg,FAKE,B_noise,noise_0.03,0.03,0.8517298698425293,False
+101 (4).jpg,FAKE,B_noise,noise_0.05,0.05,0.8445364236831665,False
+101 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8488636612892151,False
+101 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8545439839363098,False
+101 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8481828570365906,False
+101 (5).jpg,FAKE,original,original,0.0,0.8260706663131714,False
+101 (5).jpg,FAKE,A_blur,blur_0.3,0.3,0.8260706663131714,False
+101 (5).jpg,FAKE,A_blur,blur_0.5,0.5,0.8238240480422974,False
+101 (5).jpg,FAKE,A_blur,blur_0.8,0.8,0.8125409483909607,False
+101 (5).jpg,FAKE,A_blur,blur_1.0,1.0,0.8125409483909607,False
+101 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8349434733390808,False
+101 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8378742933273315,False
+101 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8378349542617798,False
+101 (5).jpg,FAKE,B_noise,noise_0.01,0.01,0.8290656208992004,False
+101 (5).jpg,FAKE,B_noise,noise_0.02,0.02,0.8298676609992981,False
+101 (5).jpg,FAKE,B_noise,noise_0.03,0.03,0.8257743120193481,False
+101 (5).jpg,FAKE,B_noise,noise_0.05,0.05,0.8317983150482178,False
+101 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8263961672782898,False
+101 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8248546123504639,False
+101 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8299821615219116,False
+101 (6).jpg,FAKE,original,original,0.0,0.8120123147964478,False
+101 (6).jpg,FAKE,A_blur,blur_0.3,0.3,0.8120123147964478,False
+101 (6).jpg,FAKE,A_blur,blur_0.5,0.5,0.8232451677322388,False
+101 (6).jpg,FAKE,A_blur,blur_0.8,0.8,0.8213981986045837,False
+101 (6).jpg,FAKE,A_blur,blur_1.0,1.0,0.8213981986045837,False
+101 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.842696487903595,False
+101 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8290412425994873,False
+101 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8282495141029358,False
+101 (6).jpg,FAKE,B_noise,noise_0.01,0.01,0.812454879283905,False
+101 (6).jpg,FAKE,B_noise,noise_0.02,0.02,0.817716121673584,False
+101 (6).jpg,FAKE,B_noise,noise_0.03,0.03,0.8113912343978882,False
+101 (6).jpg,FAKE,B_noise,noise_0.05,0.05,0.7957811951637268,False
+101 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8141242265701294,False
+101 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8072078227996826,False
+101 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8075495362281799,False
+101 (7).jpg,FAKE,original,original,0.0,0.8196096420288086,False
+101 (7).jpg,FAKE,A_blur,blur_0.3,0.3,0.8196096420288086,False
+101 (7).jpg,FAKE,A_blur,blur_0.5,0.5,0.8237548470497131,False
+101 (7).jpg,FAKE,A_blur,blur_0.8,0.8,0.8163861036300659,False
+101 (7).jpg,FAKE,A_blur,blur_1.0,1.0,0.8163861036300659,False
+101 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8391075134277344,False
+101 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.833916425704956,False
+101 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8339325189590454,False
+101 (7).jpg,FAKE,B_noise,noise_0.01,0.01,0.8199178576469421,False
+101 (7).jpg,FAKE,B_noise,noise_0.02,0.02,0.8207842707633972,False
+101 (7).jpg,FAKE,B_noise,noise_0.03,0.03,0.8109327554702759,False
+101 (7).jpg,FAKE,B_noise,noise_0.05,0.05,0.8096817135810852,False
+101 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.817132294178009,False
+101 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8211747407913208,False
+101 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8177394866943359,False
+101 (8).jpg,FAKE,original,original,0.0,0.7978048324584961,False
+101 (8).jpg,FAKE,A_blur,blur_0.3,0.3,0.7978048324584961,False
+101 (8).jpg,FAKE,A_blur,blur_0.5,0.5,0.8120682835578918,False
+101 (8).jpg,FAKE,A_blur,blur_0.8,0.8,0.7969581484794617,False
+101 (8).jpg,FAKE,A_blur,blur_1.0,1.0,0.7969581484794617,False
+101 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8154462575912476,False
+101 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.7997657060623169,False
+101 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8098475337028503,False
+101 (8).jpg,FAKE,B_noise,noise_0.01,0.01,0.7969915866851807,False
+101 (8).jpg,FAKE,B_noise,noise_0.02,0.02,0.791688859462738,False
+101 (8).jpg,FAKE,B_noise,noise_0.03,0.03,0.7890461683273315,False
+101 (8).jpg,FAKE,B_noise,noise_0.05,0.05,0.7696627378463745,False
+101 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7993100881576538,False
+101 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7874889373779297,False
+101 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7866504788398743,False
+101 (9).jpg,FAKE,original,original,0.0,0.8438025116920471,False
+101 (9).jpg,FAKE,A_blur,blur_0.3,0.3,0.8438025116920471,False
+101 (9).jpg,FAKE,A_blur,blur_0.5,0.5,0.8220804333686829,False
+101 (9).jpg,FAKE,A_blur,blur_0.8,0.8,0.8100833296775818,False
+101 (9).jpg,FAKE,A_blur,blur_1.0,1.0,0.8100833296775818,False
+101 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8290975093841553,False
+101 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8354010581970215,False
+101 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8334822654724121,False
+101 (9).jpg,FAKE,B_noise,noise_0.01,0.01,0.8450294137001038,False
+101 (9).jpg,FAKE,B_noise,noise_0.02,0.02,0.8472180962562561,False
+101 (9).jpg,FAKE,B_noise,noise_0.03,0.03,0.8499548435211182,False
+101 (9).jpg,FAKE,B_noise,noise_0.05,0.05,0.8454288244247437,False
+101 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8432731628417969,False
+101 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8446572422981262,False
+101 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8506755828857422,False
+101.jpg,FAKE,original,original,0.0,0.7925690412521362,False
+101.jpg,FAKE,A_blur,blur_0.3,0.3,0.7925690412521362,False
+101.jpg,FAKE,A_blur,blur_0.5,0.5,0.7895036935806274,False
+101.jpg,FAKE,A_blur,blur_0.8,0.8,0.8005524277687073,False
+101.jpg,FAKE,A_blur,blur_1.0,1.0,0.8005524277687073,False
+101.jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.7995411157608032,False
+101.jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8038192391395569,False
+101.jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.805112898349762,False
+101.jpg,FAKE,B_noise,noise_0.01,0.01,0.7970993518829346,False
+101.jpg,FAKE,B_noise,noise_0.02,0.02,0.7882927656173706,False
+101.jpg,FAKE,B_noise,noise_0.03,0.03,0.7840811014175415,False
+101.jpg,FAKE,B_noise,noise_0.05,0.05,0.798575222492218,False
+101.jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7877242565155029,False
+101.jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7902601361274719,False
+101.jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7780944108963013,False
+102 (10).jpg,FAKE,original,original,0.0,0.8186677098274231,False
+102 (10).jpg,FAKE,A_blur,blur_0.3,0.3,0.8186677098274231,False
+102 (10).jpg,FAKE,A_blur,blur_0.5,0.5,0.7996755242347717,False
+102 (10).jpg,FAKE,A_blur,blur_0.8,0.8,0.7818032503128052,False
+102 (10).jpg,FAKE,A_blur,blur_1.0,1.0,0.7818032503128052,False
+102 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8231387138366699,False
+102 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8208069801330566,False
+102 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8132781386375427,False
+102 (10).jpg,FAKE,B_noise,noise_0.01,0.01,0.8170179128646851,False
+102 (10).jpg,FAKE,B_noise,noise_0.02,0.02,0.8295876979827881,False
+102 (10).jpg,FAKE,B_noise,noise_0.03,0.03,0.8294556140899658,False
+102 (10).jpg,FAKE,B_noise,noise_0.05,0.05,0.8300413489341736,False
+102 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8279449939727783,False
+102 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8270664811134338,False
+102 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8125597834587097,False
+102 (2).jpg,FAKE,original,original,0.0,0.8313136100769043,False
+102 (2).jpg,FAKE,A_blur,blur_0.3,0.3,0.8313136100769043,False
+102 (2).jpg,FAKE,A_blur,blur_0.5,0.5,0.8398575186729431,False
+102 (2).jpg,FAKE,A_blur,blur_0.8,0.8,0.8354926109313965,False
+102 (2).jpg,FAKE,A_blur,blur_1.0,1.0,0.8354926109313965,False
+102 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8122278451919556,False
+102 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8304554224014282,False
+102 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8379490375518799,False
+102 (2).jpg,FAKE,B_noise,noise_0.01,0.01,0.8295484781265259,False
+102 (2).jpg,FAKE,B_noise,noise_0.02,0.02,0.8353419303894043,False
+102 (2).jpg,FAKE,B_noise,noise_0.03,0.03,0.8269690871238708,False
+102 (2).jpg,FAKE,B_noise,noise_0.05,0.05,0.8183208703994751,False
+102 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8246456980705261,False
+102 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8286188244819641,False
+102 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.829475462436676,False
+102 (3).jpg,FAKE,original,original,0.0,0.8416416049003601,False
+102 (3).jpg,FAKE,A_blur,blur_0.3,0.3,0.8416416049003601,False
+102 (3).jpg,FAKE,A_blur,blur_0.5,0.5,0.8186699151992798,False
+102 (3).jpg,FAKE,A_blur,blur_0.8,0.8,0.8045542240142822,False
+102 (3).jpg,FAKE,A_blur,blur_1.0,1.0,0.8045542240142822,False
+102 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8282235860824585,False
+102 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8206537961959839,False
+102 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8140844702720642,False
+102 (3).jpg,FAKE,B_noise,noise_0.01,0.01,0.8407095074653625,False
+102 (3).jpg,FAKE,B_noise,noise_0.02,0.02,0.8431165814399719,False
+102 (3).jpg,FAKE,B_noise,noise_0.03,0.03,0.8294751048088074,False
+102 (3).jpg,FAKE,B_noise,noise_0.05,0.05,0.8279311060905457,False
+102 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8384606242179871,False
+102 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8378786444664001,False
+102 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8372101783752441,False
+102 (4).jpg,FAKE,original,original,0.0,0.8282889127731323,False
+102 (4).jpg,FAKE,A_blur,blur_0.3,0.3,0.8282889127731323,False
+102 (4).jpg,FAKE,A_blur,blur_0.5,0.5,0.8396415114402771,False
+102 (4).jpg,FAKE,A_blur,blur_0.8,0.8,0.833028256893158,False
+102 (4).jpg,FAKE,A_blur,blur_1.0,1.0,0.833028256893158,False
+102 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8372353315353394,False
+102 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.838138222694397,False
+102 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8311546444892883,False
+102 (4).jpg,FAKE,B_noise,noise_0.01,0.01,0.8286308646202087,False
+102 (4).jpg,FAKE,B_noise,noise_0.02,0.02,0.8269873857498169,False
+102 (4).jpg,FAKE,B_noise,noise_0.03,0.03,0.8233433961868286,False
+102 (4).jpg,FAKE,B_noise,noise_0.05,0.05,0.8067901134490967,False
+102 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8308699727058411,False
+102 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8305448889732361,False
+102 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8243768811225891,False
+102 (5).jpg,FAKE,original,original,0.0,0.844842791557312,False
+102 (5).jpg,FAKE,A_blur,blur_0.3,0.3,0.844842791557312,False
+102 (5).jpg,FAKE,A_blur,blur_0.5,0.5,0.8192186951637268,False
+102 (5).jpg,FAKE,A_blur,blur_0.8,0.8,0.7995226979255676,False
+102 (5).jpg,FAKE,A_blur,blur_1.0,1.0,0.7995226979255676,False
+102 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8262461423873901,False
+102 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8270612955093384,False
+102 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8212046027183533,False
+102 (5).jpg,FAKE,B_noise,noise_0.01,0.01,0.8451977372169495,False
+102 (5).jpg,FAKE,B_noise,noise_0.02,0.02,0.8475636839866638,False
+102 (5).jpg,FAKE,B_noise,noise_0.03,0.03,0.8478752374649048,False
+102 (5).jpg,FAKE,B_noise,noise_0.05,0.05,0.8420547246932983,False
+102 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8437327742576599,False
+102 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8452030420303345,False
+102 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8552001714706421,False
+102 (6).jpg,FAKE,original,original,0.0,0.8307430148124695,False
+102 (6).jpg,FAKE,A_blur,blur_0.3,0.3,0.8307430148124695,False
+102 (6).jpg,FAKE,A_blur,blur_0.5,0.5,0.8593992590904236,False
+102 (6).jpg,FAKE,A_blur,blur_0.8,0.8,0.8472498655319214,False
+102 (6).jpg,FAKE,A_blur,blur_1.0,1.0,0.8472498655319214,False
+102 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8575531244277954,False
+102 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8589165210723877,False
+102 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.859943151473999,False
+102 (6).jpg,FAKE,B_noise,noise_0.01,0.01,0.8351321220397949,False
+102 (6).jpg,FAKE,B_noise,noise_0.02,0.02,0.8335360288619995,False
+102 (6).jpg,FAKE,B_noise,noise_0.03,0.03,0.8311423063278198,False
+102 (6).jpg,FAKE,B_noise,noise_0.05,0.05,0.8251954913139343,False
+102 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8311025500297546,False
+102 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8251786231994629,False
+102 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8224223852157593,False
+102 (7).jpg,FAKE,original,original,0.0,0.8508046269416809,False
+102 (7).jpg,FAKE,A_blur,blur_0.3,0.3,0.8508046269416809,False
+102 (7).jpg,FAKE,A_blur,blur_0.5,0.5,0.8465899229049683,False
+102 (7).jpg,FAKE,A_blur,blur_0.8,0.8,0.8411353230476379,False
+102 (7).jpg,FAKE,A_blur,blur_1.0,1.0,0.8411353230476379,False
+102 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8487600684165955,False
+102 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8489418029785156,False
+102 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8503575325012207,False
+102 (7).jpg,FAKE,B_noise,noise_0.01,0.01,0.8524772524833679,False
+102 (7).jpg,FAKE,B_noise,noise_0.02,0.02,0.8529035449028015,False
+102 (7).jpg,FAKE,B_noise,noise_0.03,0.03,0.8441356420516968,False
+102 (7).jpg,FAKE,B_noise,noise_0.05,0.05,0.8596473932266235,False
+102 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8456375598907471,False
+102 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8491514325141907,False
+102 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8531685471534729,False
+102 (8).jpg,FAKE,original,original,0.0,0.7878060936927795,False
+102 (8).jpg,FAKE,A_blur,blur_0.3,0.3,0.7878060936927795,False
+102 (8).jpg,FAKE,A_blur,blur_0.5,0.5,0.8319247961044312,False
+102 (8).jpg,FAKE,A_blur,blur_0.8,0.8,0.8094759583473206,False
+102 (8).jpg,FAKE,A_blur,blur_1.0,1.0,0.8094759583473206,False
+102 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8436121344566345,False
+102 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8221145868301392,False
+102 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8121985793113708,False
+102 (8).jpg,FAKE,B_noise,noise_0.01,0.01,0.7904033660888672,False
+102 (8).jpg,FAKE,B_noise,noise_0.02,0.02,0.7945857048034668,False
+102 (8).jpg,FAKE,B_noise,noise_0.03,0.03,0.7868325114250183,False
+102 (8).jpg,FAKE,B_noise,noise_0.05,0.05,0.7903531789779663,False
+102 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7869827151298523,False
+102 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7843069434165955,False
+102 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7839247584342957,False
+102 (9).jpg,FAKE,original,original,0.0,0.850307047367096,False
+102 (9).jpg,FAKE,A_blur,blur_0.3,0.3,0.850307047367096,False
+102 (9).jpg,FAKE,A_blur,blur_0.5,0.5,0.8437340259552002,False
+102 (9).jpg,FAKE,A_blur,blur_0.8,0.8,0.8392590880393982,False
+102 (9).jpg,FAKE,A_blur,blur_1.0,1.0,0.8392590880393982,False
+102 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8453309535980225,False
+102 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8534132838249207,False
+102 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8472061157226562,False
+102 (9).jpg,FAKE,B_noise,noise_0.01,0.01,0.8523291349411011,False
+102 (9).jpg,FAKE,B_noise,noise_0.02,0.02,0.8499991297721863,False
+102 (9).jpg,FAKE,B_noise,noise_0.03,0.03,0.8601546287536621,False
+102 (9).jpg,FAKE,B_noise,noise_0.05,0.05,0.8621810078620911,False
+102 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8499099612236023,False
+102 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8495914936065674,False
+102 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8534914255142212,False
+102.jpg,FAKE,original,original,0.0,0.8375139236450195,False
+102.jpg,FAKE,A_blur,blur_0.3,0.3,0.8375139236450195,False
+102.jpg,FAKE,A_blur,blur_0.5,0.5,0.834209144115448,False
+102.jpg,FAKE,A_blur,blur_0.8,0.8,0.8288929462432861,False
+102.jpg,FAKE,A_blur,blur_1.0,1.0,0.8288929462432861,False
+102.jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8395099639892578,False
+102.jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8342723846435547,False
+102.jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8366075754165649,False
+102.jpg,FAKE,B_noise,noise_0.01,0.01,0.8351782560348511,False
+102.jpg,FAKE,B_noise,noise_0.02,0.02,0.8389931321144104,False
+102.jpg,FAKE,B_noise,noise_0.03,0.03,0.8400121331214905,False
+102.jpg,FAKE,B_noise,noise_0.05,0.05,0.8399636149406433,False
+102.jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8374855518341064,False
+102.jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8386304378509521,False
+102.jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8324583768844604,False
+103 (10).jpg,FAKE,original,original,0.0,0.8289111256599426,False
+103 (10).jpg,FAKE,A_blur,blur_0.3,0.3,0.8289111256599426,False
+103 (10).jpg,FAKE,A_blur,blur_0.5,0.5,0.821581244468689,False
+103 (10).jpg,FAKE,A_blur,blur_0.8,0.8,0.7996025681495667,False
+103 (10).jpg,FAKE,A_blur,blur_1.0,1.0,0.7996025681495667,False
+103 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8107863664627075,False
+103 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8113588094711304,False
+103 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8153155446052551,False
+103 (10).jpg,FAKE,B_noise,noise_0.01,0.01,0.8283002972602844,False
+103 (10).jpg,FAKE,B_noise,noise_0.02,0.02,0.8288350701332092,False
+103 (10).jpg,FAKE,B_noise,noise_0.03,0.03,0.8249766230583191,False
+103 (10).jpg,FAKE,B_noise,noise_0.05,0.05,0.8254194855690002,False
+103 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8303412199020386,False
+103 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8313995003700256,False
+103 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8260300755500793,False
+103 (2).jpg,FAKE,original,original,0.0,0.8227680325508118,False
+103 (2).jpg,FAKE,A_blur,blur_0.3,0.3,0.8227680325508118,False
+103 (2).jpg,FAKE,A_blur,blur_0.5,0.5,0.8413248658180237,False
+103 (2).jpg,FAKE,A_blur,blur_0.8,0.8,0.8389003276824951,False
+103 (2).jpg,FAKE,A_blur,blur_1.0,1.0,0.8389003276824951,False
+103 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8584752678871155,False
+103 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8657661080360413,False
+103 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8651737570762634,False
+103 (2).jpg,FAKE,B_noise,noise_0.01,0.01,0.8205084800720215,False
+103 (2).jpg,FAKE,B_noise,noise_0.02,0.02,0.8250965476036072,False
+103 (2).jpg,FAKE,B_noise,noise_0.03,0.03,0.8241023421287537,False
+103 (2).jpg,FAKE,B_noise,noise_0.05,0.05,0.8176902532577515,False
+103 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8206809163093567,False
+103 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8154734969139099,False
+103 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8105639815330505,False
+103 (3).jpg,FAKE,original,original,0.0,0.7766368985176086,False
+103 (3).jpg,FAKE,A_blur,blur_0.3,0.3,0.7766368985176086,False
+103 (3).jpg,FAKE,A_blur,blur_0.5,0.5,0.793949544429779,False
+103 (3).jpg,FAKE,A_blur,blur_0.8,0.8,0.7880018353462219,False
+103 (3).jpg,FAKE,A_blur,blur_1.0,1.0,0.7880018353462219,False
+103 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.790824830532074,False
+103 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.804153561592102,False
+103 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8068026304244995,False
+103 (3).jpg,FAKE,B_noise,noise_0.01,0.01,0.7760027050971985,False
+103 (3).jpg,FAKE,B_noise,noise_0.02,0.02,0.7811212539672852,False
+103 (3).jpg,FAKE,B_noise,noise_0.03,0.03,0.7940811514854431,False
+103 (3).jpg,FAKE,B_noise,noise_0.05,0.05,0.8015474081039429,False
+103 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7716549634933472,False
+103 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7819657325744629,False
+103 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7767840027809143,False
+103 (4).jpg,FAKE,original,original,0.0,0.8152655363082886,False
+103 (4).jpg,FAKE,A_blur,blur_0.3,0.3,0.8152655363082886,False
+103 (4).jpg,FAKE,A_blur,blur_0.5,0.5,0.8436159491539001,False
+103 (4).jpg,FAKE,A_blur,blur_0.8,0.8,0.8379388451576233,False
+103 (4).jpg,FAKE,A_blur,blur_1.0,1.0,0.8379388451576233,False
+103 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8526445031166077,False
+103 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8561078906059265,False
+103 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8570073246955872,False
+103 (4).jpg,FAKE,B_noise,noise_0.01,0.01,0.8203278183937073,False
+103 (4).jpg,FAKE,B_noise,noise_0.02,0.02,0.820083498954773,False
+103 (4).jpg,FAKE,B_noise,noise_0.03,0.03,0.8208763599395752,False
+103 (4).jpg,FAKE,B_noise,noise_0.05,0.05,0.8279612064361572,False
+103 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8157436847686768,False
+103 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8181725144386292,False
+103 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8174484968185425,False
+103 (5).jpg,FAKE,original,original,0.0,0.826894223690033,False
+103 (5).jpg,FAKE,A_blur,blur_0.3,0.3,0.826894223690033,False
+103 (5).jpg,FAKE,A_blur,blur_0.5,0.5,0.8108991980552673,False
+103 (5).jpg,FAKE,A_blur,blur_0.8,0.8,0.8088483810424805,False
+103 (5).jpg,FAKE,A_blur,blur_1.0,1.0,0.8088483810424805,False
+103 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8447549939155579,False
+103 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8313825130462646,False
+103 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8273753523826599,False
+103 (5).jpg,FAKE,B_noise,noise_0.01,0.01,0.8299623727798462,False
+103 (5).jpg,FAKE,B_noise,noise_0.02,0.02,0.8261669278144836,False
+103 (5).jpg,FAKE,B_noise,noise_0.03,0.03,0.8289811611175537,False
+103 (5).jpg,FAKE,B_noise,noise_0.05,0.05,0.823059618473053,False
+103 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8194069862365723,False
+103 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8224189877510071,False
+103 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8336349725723267,False
+103 (6).jpg,FAKE,original,original,0.0,0.8340719938278198,False
+103 (6).jpg,FAKE,A_blur,blur_0.3,0.3,0.8340719938278198,False
+103 (6).jpg,FAKE,A_blur,blur_0.5,0.5,0.8308956027030945,False
+103 (6).jpg,FAKE,A_blur,blur_0.8,0.8,0.831375002861023,False
+103 (6).jpg,FAKE,A_blur,blur_1.0,1.0,0.831375002861023,False
+103 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8458423614501953,False
+103 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8412529230117798,False
+103 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8476163148880005,False
+103 (6).jpg,FAKE,B_noise,noise_0.01,0.01,0.8329061269760132,False
+103 (6).jpg,FAKE,B_noise,noise_0.02,0.02,0.8299715518951416,False
+103 (6).jpg,FAKE,B_noise,noise_0.03,0.03,0.8365989923477173,False
+103 (6).jpg,FAKE,B_noise,noise_0.05,0.05,0.823517382144928,False
+103 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8357656002044678,False
+103 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8358837366104126,False
+103 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8338489532470703,False
+103 (7).jpg,FAKE,original,original,0.0,0.8251538276672363,False
+103 (7).jpg,FAKE,A_blur,blur_0.3,0.3,0.8251538276672363,False
+103 (7).jpg,FAKE,A_blur,blur_0.5,0.5,0.8682399392127991,False
+103 (7).jpg,FAKE,A_blur,blur_0.8,0.8,0.8484088778495789,False
+103 (7).jpg,FAKE,A_blur,blur_1.0,1.0,0.8484088778495789,False
+103 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8726709485054016,False
+103 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8733710050582886,False
+103 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8758639693260193,False
+103 (7).jpg,FAKE,B_noise,noise_0.01,0.01,0.8248885869979858,False
+103 (7).jpg,FAKE,B_noise,noise_0.02,0.02,0.8216487169265747,False
+103 (7).jpg,FAKE,B_noise,noise_0.03,0.03,0.8193054795265198,False
+103 (7).jpg,FAKE,B_noise,noise_0.05,0.05,0.8066568970680237,False
+103 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8210271596908569,False
+103 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8175055980682373,False
+103 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8185709118843079,False
+103 (8).jpg,FAKE,original,original,0.0,0.7271554470062256,False
+103 (8).jpg,FAKE,A_blur,blur_0.3,0.3,0.7271554470062256,False
+103 (8).jpg,FAKE,A_blur,blur_0.5,0.5,0.7918083667755127,False
+103 (8).jpg,FAKE,A_blur,blur_0.8,0.8,0.7913730144500732,False
+103 (8).jpg,FAKE,A_blur,blur_1.0,1.0,0.7913730144500732,False
+103 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8050691485404968,False
+103 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8103151917457581,False
+103 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8089154958724976,False
+103 (8).jpg,FAKE,B_noise,noise_0.01,0.01,0.7231339812278748,False
+103 (8).jpg,FAKE,B_noise,noise_0.02,0.02,0.7307628989219666,False
+103 (8).jpg,FAKE,B_noise,noise_0.03,0.03,0.7260629534721375,False
+103 (8).jpg,FAKE,B_noise,noise_0.05,0.05,0.7320519089698792,False
+103 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.730118989944458,False
+103 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7175288200378418,False
+103 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7206044793128967,False
+103 (9).jpg,FAKE,original,original,0.0,0.8460196256637573,False
+103 (9).jpg,FAKE,A_blur,blur_0.3,0.3,0.8460196256637573,False
+103 (9).jpg,FAKE,A_blur,blur_0.5,0.5,0.8117668628692627,False
+103 (9).jpg,FAKE,A_blur,blur_0.8,0.8,0.8036933541297913,False
+103 (9).jpg,FAKE,A_blur,blur_1.0,1.0,0.8036933541297913,False
+103 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.802649974822998,False
+103 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8149067759513855,False
+103 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8146229982376099,False
+103 (9).jpg,FAKE,B_noise,noise_0.01,0.01,0.8454729914665222,False
+103 (9).jpg,FAKE,B_noise,noise_0.02,0.02,0.8442709445953369,False
+103 (9).jpg,FAKE,B_noise,noise_0.03,0.03,0.8427212834358215,False
+103 (9).jpg,FAKE,B_noise,noise_0.05,0.05,0.8505691289901733,False
+103 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8493166565895081,False
+103 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8482231497764587,False
+103 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8514070510864258,False
+103.jpg,FAKE,original,original,0.0,0.8236501812934875,False
+103.jpg,FAKE,A_blur,blur_0.3,0.3,0.8236501812934875,False
+103.jpg,FAKE,A_blur,blur_0.5,0.5,0.8108496069908142,False
+103.jpg,FAKE,A_blur,blur_0.8,0.8,0.8025984168052673,False
+103.jpg,FAKE,A_blur,blur_1.0,1.0,0.8025984168052673,False
+103.jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.793336033821106,False
+103.jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.812435507774353,False
+103.jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8131515383720398,False
+103.jpg,FAKE,B_noise,noise_0.01,0.01,0.820939838886261,False
+103.jpg,FAKE,B_noise,noise_0.02,0.02,0.8180351853370667,False
+103.jpg,FAKE,B_noise,noise_0.03,0.03,0.8190178275108337,False
+103.jpg,FAKE,B_noise,noise_0.05,0.05,0.8161144852638245,False
+103.jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.818566083908081,False
+103.jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.815441906452179,False
+103.jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8204219937324524,False
+104 (10).jpg,FAKE,original,original,0.0,0.7865733504295349,False
+104 (10).jpg,FAKE,A_blur,blur_0.3,0.3,0.7865733504295349,False
+104 (10).jpg,FAKE,A_blur,blur_0.5,0.5,0.8039073944091797,False
+104 (10).jpg,FAKE,A_blur,blur_0.8,0.8,0.8106454014778137,False
+104 (10).jpg,FAKE,A_blur,blur_1.0,1.0,0.8106454014778137,False
+104 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.7998744249343872,False
+104 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8039361834526062,False
+104 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8073416352272034,False
+104 (10).jpg,FAKE,B_noise,noise_0.01,0.01,0.7881596088409424,False
+104 (10).jpg,FAKE,B_noise,noise_0.02,0.02,0.7855788469314575,False
+104 (10).jpg,FAKE,B_noise,noise_0.03,0.03,0.7883042693138123,False
+104 (10).jpg,FAKE,B_noise,noise_0.05,0.05,0.8035721182823181,False
+104 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7878218293190002,False
+104 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7871171236038208,False
+104 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7837002277374268,False
+104 (2).jpg,FAKE,original,original,0.0,0.7995848059654236,False
+104 (2).jpg,FAKE,A_blur,blur_0.3,0.3,0.7995848059654236,False
+104 (2).jpg,FAKE,A_blur,blur_0.5,0.5,0.8204297423362732,False
+104 (2).jpg,FAKE,A_blur,blur_0.8,0.8,0.8194615244865417,False
+104 (2).jpg,FAKE,A_blur,blur_1.0,1.0,0.8194615244865417,False
+104 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8321603536605835,False
+104 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8387665152549744,False
+104 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8395862579345703,False
+104 (2).jpg,FAKE,B_noise,noise_0.01,0.01,0.802507221698761,False
+104 (2).jpg,FAKE,B_noise,noise_0.02,0.02,0.8054288029670715,False
+104 (2).jpg,FAKE,B_noise,noise_0.03,0.03,0.7943035364151001,False
+104 (2).jpg,FAKE,B_noise,noise_0.05,0.05,0.8070057034492493,False
+104 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8032208681106567,False
+104 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8034242987632751,False
+104 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7953803539276123,False
+104 (3).jpg,FAKE,original,original,0.0,0.8724719882011414,False
+104 (3).jpg,FAKE,A_blur,blur_0.3,0.3,0.8724719882011414,False
+104 (3).jpg,FAKE,A_blur,blur_0.5,0.5,0.8297500610351562,False
+104 (3).jpg,FAKE,A_blur,blur_0.8,0.8,0.8138947486877441,False
+104 (3).jpg,FAKE,A_blur,blur_1.0,1.0,0.8138947486877441,False
+104 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8285878896713257,False
+104 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.82234787940979,False
+104 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8104420304298401,False
+104 (3).jpg,FAKE,B_noise,noise_0.01,0.01,0.871713399887085,False
+104 (3).jpg,FAKE,B_noise,noise_0.02,0.02,0.8682392239570618,False
+104 (3).jpg,FAKE,B_noise,noise_0.03,0.03,0.8731110095977783,False
+104 (3).jpg,FAKE,B_noise,noise_0.05,0.05,0.8596562147140503,False
+104 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.873508870601654,False
+104 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8675374388694763,False
+104 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8708391189575195,False
+104 (4).jpg,FAKE,original,original,0.0,0.8255844116210938,False
+104 (4).jpg,FAKE,A_blur,blur_0.3,0.3,0.8255844116210938,False
+104 (4).jpg,FAKE,A_blur,blur_0.5,0.5,0.8071591258049011,False
+104 (4).jpg,FAKE,A_blur,blur_0.8,0.8,0.7970073223114014,False
+104 (4).jpg,FAKE,A_blur,blur_1.0,1.0,0.7970073223114014,False
+104 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.7898579239845276,False
+104 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8125247359275818,False
+104 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8245553374290466,False
+104 (4).jpg,FAKE,B_noise,noise_0.01,0.01,0.8238539695739746,False
+104 (4).jpg,FAKE,B_noise,noise_0.02,0.02,0.8169397115707397,False
+104 (4).jpg,FAKE,B_noise,noise_0.03,0.03,0.8278620839118958,False
+104 (4).jpg,FAKE,B_noise,noise_0.05,0.05,0.8304868340492249,False
+104 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8206670880317688,False
+104 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8215603232383728,False
+104 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8202016353607178,False
+104 (5).jpg,FAKE,original,original,0.0,0.8358134031295776,False
+104 (5).jpg,FAKE,A_blur,blur_0.3,0.3,0.8358134031295776,False
+104 (5).jpg,FAKE,A_blur,blur_0.5,0.5,0.8403405547142029,False
+104 (5).jpg,FAKE,A_blur,blur_0.8,0.8,0.827854335308075,False
+104 (5).jpg,FAKE,A_blur,blur_1.0,1.0,0.827854335308075,False
+104 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8410735130310059,False
+104 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8422891497612,False
+104 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8419160842895508,False
+104 (5).jpg,FAKE,B_noise,noise_0.01,0.01,0.8366063237190247,False
+104 (5).jpg,FAKE,B_noise,noise_0.02,0.02,0.8337274789810181,False
+104 (5).jpg,FAKE,B_noise,noise_0.03,0.03,0.8279823660850525,False
+104 (5).jpg,FAKE,B_noise,noise_0.05,0.05,0.8496195077896118,False
+104 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8311992883682251,False
+104 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8355103135108948,False
+104 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8299058675765991,False
+104 (6).jpg,FAKE,original,original,0.0,0.7331763505935669,False
+104 (6).jpg,FAKE,A_blur,blur_0.3,0.3,0.7331763505935669,False
+104 (6).jpg,FAKE,A_blur,blur_0.5,0.5,0.7927978038787842,False
+104 (6).jpg,FAKE,A_blur,blur_0.8,0.8,0.796592652797699,False
+104 (6).jpg,FAKE,A_blur,blur_1.0,1.0,0.796592652797699,False
+104 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.7961391806602478,False
+104 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8013445734977722,False
+104 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8085947632789612,False
+104 (6).jpg,FAKE,B_noise,noise_0.01,0.01,0.7354563474655151,False
+104 (6).jpg,FAKE,B_noise,noise_0.02,0.02,0.73679119348526,False
+104 (6).jpg,FAKE,B_noise,noise_0.03,0.03,0.7393762469291687,False
+104 (6).jpg,FAKE,B_noise,noise_0.05,0.05,0.7316845059394836,False
+104 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7288763523101807,False
+104 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7305065989494324,False
+104 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7258906364440918,False
+104 (7).jpg,FAKE,original,original,0.0,0.8240828514099121,False
+104 (7).jpg,FAKE,A_blur,blur_0.3,0.3,0.8240828514099121,False
+104 (7).jpg,FAKE,A_blur,blur_0.5,0.5,0.8147495985031128,False
+104 (7).jpg,FAKE,A_blur,blur_0.8,0.8,0.8116054534912109,False
+104 (7).jpg,FAKE,A_blur,blur_1.0,1.0,0.8116054534912109,False
+104 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8240476250648499,False
+104 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8240098357200623,False
+104 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8232592344284058,False
+104 (7).jpg,FAKE,B_noise,noise_0.01,0.01,0.8251051306724548,False
+104 (7).jpg,FAKE,B_noise,noise_0.02,0.02,0.827962338924408,False
+104 (7).jpg,FAKE,B_noise,noise_0.03,0.03,0.8218213319778442,False
+104 (7).jpg,FAKE,B_noise,noise_0.05,0.05,0.8329522609710693,False
+104 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8238487839698792,False
+104 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8247909545898438,False
+104 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8235934972763062,False
+104 (8).jpg,FAKE,original,original,0.0,0.8100649118423462,False
+104 (8).jpg,FAKE,A_blur,blur_0.3,0.3,0.8100649118423462,False
+104 (8).jpg,FAKE,A_blur,blur_0.5,0.5,0.825203001499176,False
+104 (8).jpg,FAKE,A_blur,blur_0.8,0.8,0.8240959048271179,False
+104 (8).jpg,FAKE,A_blur,blur_1.0,1.0,0.8240959048271179,False
+104 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8344824314117432,False
+104 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8359613418579102,False
+104 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.83530193567276,False
+104 (8).jpg,FAKE,B_noise,noise_0.01,0.01,0.810772180557251,False
+104 (8).jpg,FAKE,B_noise,noise_0.02,0.02,0.8068013191223145,False
+104 (8).jpg,FAKE,B_noise,noise_0.03,0.03,0.8102185130119324,False
+104 (8).jpg,FAKE,B_noise,noise_0.05,0.05,0.8186913728713989,False
+104 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8099435567855835,False
+104 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8056547045707703,False
+104 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8055926561355591,False
+104 (9).jpg,FAKE,original,original,0.0,0.8033133745193481,False
+104 (9).jpg,FAKE,A_blur,blur_0.3,0.3,0.8033133745193481,False
+104 (9).jpg,FAKE,A_blur,blur_0.5,0.5,0.8108059167861938,False
+104 (9).jpg,FAKE,A_blur,blur_0.8,0.8,0.8132793307304382,False
+104 (9).jpg,FAKE,A_blur,blur_1.0,1.0,0.8132793307304382,False
+104 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8336336016654968,False
+104 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8256455063819885,False
+104 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8317068815231323,False
+104 (9).jpg,FAKE,B_noise,noise_0.01,0.01,0.8048112392425537,False
+104 (9).jpg,FAKE,B_noise,noise_0.02,0.02,0.8021344542503357,False
+104 (9).jpg,FAKE,B_noise,noise_0.03,0.03,0.8166850805282593,False
+104 (9).jpg,FAKE,B_noise,noise_0.05,0.05,0.8201859593391418,False
+104 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8080055117607117,False
+104 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7991490960121155,False
+104 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.792461097240448,False
+104.jpg,FAKE,original,original,0.0,0.8497892618179321,False
+104.jpg,FAKE,A_blur,blur_0.3,0.3,0.8497892618179321,False
+104.jpg,FAKE,A_blur,blur_0.5,0.5,0.8578072786331177,False
+104.jpg,FAKE,A_blur,blur_0.8,0.8,0.8449999094009399,False
+104.jpg,FAKE,A_blur,blur_1.0,1.0,0.8449999094009399,False
+104.jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8372020721435547,False
+104.jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8579274415969849,False
+104.jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8560030460357666,False
+104.jpg,FAKE,B_noise,noise_0.01,0.01,0.8530346751213074,False
+104.jpg,FAKE,B_noise,noise_0.02,0.02,0.8459950089454651,False
+104.jpg,FAKE,B_noise,noise_0.03,0.03,0.8364057540893555,False
+104.jpg,FAKE,B_noise,noise_0.05,0.05,0.8473060131072998,False
+104.jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8459729552268982,False
+104.jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8478154540061951,False
+104.jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8463078141212463,False
+105 (10).jpg,FAKE,original,original,0.0,0.8142731785774231,False
+105 (10).jpg,FAKE,A_blur,blur_0.3,0.3,0.8142731785774231,False
+105 (10).jpg,FAKE,A_blur,blur_0.5,0.5,0.8199341893196106,False
+105 (10).jpg,FAKE,A_blur,blur_0.8,0.8,0.8178758025169373,False
+105 (10).jpg,FAKE,A_blur,blur_1.0,1.0,0.8178758025169373,False
+105 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8284613490104675,False
+105 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.835215151309967,False
+105 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8415135145187378,False
+105 (10).jpg,FAKE,B_noise,noise_0.01,0.01,0.8177699446678162,False
+105 (10).jpg,FAKE,B_noise,noise_0.02,0.02,0.8135947585105896,False
+105 (10).jpg,FAKE,B_noise,noise_0.03,0.03,0.8169787526130676,False
+105 (10).jpg,FAKE,B_noise,noise_0.05,0.05,0.8232574462890625,False
+105 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8161647915840149,False
+105 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.818276584148407,False
+105 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8120498657226562,False
+105 (2).jpg,FAKE,original,original,0.0,0.8413246870040894,False
+105 (2).jpg,FAKE,A_blur,blur_0.3,0.3,0.8413246870040894,False
+105 (2).jpg,FAKE,A_blur,blur_0.5,0.5,0.795224130153656,False
+105 (2).jpg,FAKE,A_blur,blur_0.8,0.8,0.7798857092857361,False
+105 (2).jpg,FAKE,A_blur,blur_1.0,1.0,0.7798857092857361,False
+105 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8202881813049316,False
+105 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8355661630630493,False
+105 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8339526653289795,False
+105 (2).jpg,FAKE,B_noise,noise_0.01,0.01,0.843514621257782,False
+105 (2).jpg,FAKE,B_noise,noise_0.02,0.02,0.8475797772407532,False
+105 (2).jpg,FAKE,B_noise,noise_0.03,0.03,0.8437277674674988,False
+105 (2).jpg,FAKE,B_noise,noise_0.05,0.05,0.8279708027839661,False
+105 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8359155058860779,False
+105 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.846781313419342,False
+105 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8410365581512451,False
+105 (3).jpg,FAKE,original,original,0.0,0.8674541711807251,False
+105 (3).jpg,FAKE,A_blur,blur_0.3,0.3,0.8674541711807251,False
+105 (3).jpg,FAKE,A_blur,blur_0.5,0.5,0.8276394009590149,False
+105 (3).jpg,FAKE,A_blur,blur_0.8,0.8,0.8083019256591797,False
+105 (3).jpg,FAKE,A_blur,blur_1.0,1.0,0.8083019256591797,False
+105 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8325594067573547,False
+105 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8410665988922119,False
+105 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.83636474609375,False
+105 (3).jpg,FAKE,B_noise,noise_0.01,0.01,0.8663726449012756,False
+105 (3).jpg,FAKE,B_noise,noise_0.02,0.02,0.8682534098625183,False
+105 (3).jpg,FAKE,B_noise,noise_0.03,0.03,0.8660927414894104,False
+105 (3).jpg,FAKE,B_noise,noise_0.05,0.05,0.8728402256965637,False
+105 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8720802664756775,False
+105 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8689289689064026,False
+105 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8693876266479492,False
+105 (4).jpg,FAKE,original,original,0.0,0.8197033405303955,False
+105 (4).jpg,FAKE,A_blur,blur_0.3,0.3,0.8197033405303955,False
+105 (4).jpg,FAKE,A_blur,blur_0.5,0.5,0.8418696522712708,False
+105 (4).jpg,FAKE,A_blur,blur_0.8,0.8,0.8412834405899048,False
+105 (4).jpg,FAKE,A_blur,blur_1.0,1.0,0.8412834405899048,False
+105 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8359463810920715,False
+105 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8530604243278503,False
+105 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8472999334335327,False
+105 (4).jpg,FAKE,B_noise,noise_0.01,0.01,0.8177669644355774,False
+105 (4).jpg,FAKE,B_noise,noise_0.02,0.02,0.8159425854682922,False
+105 (4).jpg,FAKE,B_noise,noise_0.03,0.03,0.8187363147735596,False
+105 (4).jpg,FAKE,B_noise,noise_0.05,0.05,0.8039226531982422,False
+105 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8216170072555542,False
+105 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8182092905044556,False
+105 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8119027018547058,False
+105 (5).jpg,FAKE,original,original,0.0,0.8081380724906921,False
+105 (5).jpg,FAKE,A_blur,blur_0.3,0.3,0.8081380724906921,False
+105 (5).jpg,FAKE,A_blur,blur_0.5,0.5,0.8170835375785828,False
+105 (5).jpg,FAKE,A_blur,blur_0.8,0.8,0.8085951805114746,False
+105 (5).jpg,FAKE,A_blur,blur_1.0,1.0,0.8085951805114746,False
+105 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8210402727127075,False
+105 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8202193975448608,False
+105 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8218348622322083,False
+105 (5).jpg,FAKE,B_noise,noise_0.01,0.01,0.8079806566238403,False
+105 (5).jpg,FAKE,B_noise,noise_0.02,0.02,0.81527179479599,False
+105 (5).jpg,FAKE,B_noise,noise_0.03,0.03,0.8105778694152832,False
+105 (5).jpg,FAKE,B_noise,noise_0.05,0.05,0.8058772087097168,False
+105 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8054842948913574,False
+105 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8129106760025024,False
+105 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.803152859210968,False
+105 (6).jpg,FAKE,original,original,0.0,0.7911273241043091,False
+105 (6).jpg,FAKE,A_blur,blur_0.3,0.3,0.7911273241043091,False
+105 (6).jpg,FAKE,A_blur,blur_0.5,0.5,0.823460042476654,False
+105 (6).jpg,FAKE,A_blur,blur_0.8,0.8,0.8146403431892395,False
+105 (6).jpg,FAKE,A_blur,blur_1.0,1.0,0.8146403431892395,False
+105 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8338555097579956,False
+105 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8242744207382202,False
+105 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8230118155479431,False
+105 (6).jpg,FAKE,B_noise,noise_0.01,0.01,0.7947137951850891,False
+105 (6).jpg,FAKE,B_noise,noise_0.02,0.02,0.7956995368003845,False
+105 (6).jpg,FAKE,B_noise,noise_0.03,0.03,0.7887150049209595,False
+105 (6).jpg,FAKE,B_noise,noise_0.05,0.05,0.7753952145576477,False
+105 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7938633561134338,False
+105 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.790555477142334,False
+105 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7820901274681091,False
+105 (7).jpg,FAKE,original,original,0.0,0.8710830211639404,False
+105 (7).jpg,FAKE,A_blur,blur_0.3,0.3,0.8710830211639404,False
+105 (7).jpg,FAKE,A_blur,blur_0.5,0.5,0.8634421229362488,False
+105 (7).jpg,FAKE,A_blur,blur_0.8,0.8,0.8420242667198181,False
+105 (7).jpg,FAKE,A_blur,blur_1.0,1.0,0.8420242667198181,False
+105 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8800688982009888,False
+105 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8693654537200928,False
+105 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8630789518356323,False
+105 (7).jpg,FAKE,B_noise,noise_0.01,0.01,0.8724516034126282,False
+105 (7).jpg,FAKE,B_noise,noise_0.02,0.02,0.8733859062194824,False
+105 (7).jpg,FAKE,B_noise,noise_0.03,0.03,0.8678128719329834,False
+105 (7).jpg,FAKE,B_noise,noise_0.05,0.05,0.8452803492546082,False
+105 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8675734996795654,False
+105 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8674907088279724,False
+105 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8655635118484497,False
+105 (8).jpg,FAKE,original,original,0.0,0.8386595845222473,False
+105 (8).jpg,FAKE,A_blur,blur_0.3,0.3,0.8386595845222473,False
+105 (8).jpg,FAKE,A_blur,blur_0.5,0.5,0.856342613697052,False
+105 (8).jpg,FAKE,A_blur,blur_0.8,0.8,0.8568588495254517,False
+105 (8).jpg,FAKE,A_blur,blur_1.0,1.0,0.8568588495254517,False
+105 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8614944815635681,False
+105 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8556608557701111,False
+105 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8604410290718079,False
+105 (8).jpg,FAKE,B_noise,noise_0.01,0.01,0.8427985906600952,False
+105 (8).jpg,FAKE,B_noise,noise_0.02,0.02,0.8533695340156555,False
+105 (8).jpg,FAKE,B_noise,noise_0.03,0.03,0.855692982673645,False
+105 (8).jpg,FAKE,B_noise,noise_0.05,0.05,0.8404942154884338,False
+105 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8529756665229797,False
+105 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8490810990333557,False
+105 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.853798508644104,False
+105 (9).jpg,FAKE,original,original,0.0,0.7927837371826172,False
+105 (9).jpg,FAKE,A_blur,blur_0.3,0.3,0.7927837371826172,False
+105 (9).jpg,FAKE,A_blur,blur_0.5,0.5,0.8026872277259827,False
+105 (9).jpg,FAKE,A_blur,blur_0.8,0.8,0.7942025065422058,False
+105 (9).jpg,FAKE,A_blur,blur_1.0,1.0,0.7942025065422058,False
+105 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8104607462882996,False
+105 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8082156777381897,False
+105 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8108814358711243,False
+105 (9).jpg,FAKE,B_noise,noise_0.01,0.01,0.7927353382110596,False
+105 (9).jpg,FAKE,B_noise,noise_0.02,0.02,0.7966699004173279,False
+105 (9).jpg,FAKE,B_noise,noise_0.03,0.03,0.7948036193847656,False
+105 (9).jpg,FAKE,B_noise,noise_0.05,0.05,0.810013473033905,False
+105 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7979052066802979,False
+105 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7928338646888733,False
+105 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7983624935150146,False
+105.jpg,FAKE,original,original,0.0,0.8469570875167847,False
+105.jpg,FAKE,A_blur,blur_0.3,0.3,0.8469570875167847,False
+105.jpg,FAKE,A_blur,blur_0.5,0.5,0.8083797097206116,False
+105.jpg,FAKE,A_blur,blur_0.8,0.8,0.7962042093276978,False
+105.jpg,FAKE,A_blur,blur_1.0,1.0,0.7962042093276978,False
+105.jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8350748419761658,False
+105.jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8157919049263,False
+105.jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8079599142074585,False
+105.jpg,FAKE,B_noise,noise_0.01,0.01,0.8489195704460144,False
+105.jpg,FAKE,B_noise,noise_0.02,0.02,0.8503028750419617,False
+105.jpg,FAKE,B_noise,noise_0.03,0.03,0.854282796382904,False
+105.jpg,FAKE,B_noise,noise_0.05,0.05,0.8561238646507263,False
+105.jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8508756160736084,False
+105.jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8559016585350037,False
+105.jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8490451574325562,False
+106 (10).jpg,FAKE,original,original,0.0,0.7581968307495117,False
+106 (10).jpg,FAKE,A_blur,blur_0.3,0.3,0.7581968307495117,False
+106 (10).jpg,FAKE,A_blur,blur_0.5,0.5,0.7842732071876526,False
+106 (10).jpg,FAKE,A_blur,blur_0.8,0.8,0.7964504361152649,False
+106 (10).jpg,FAKE,A_blur,blur_1.0,1.0,0.7964504361152649,False
+106 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.7891278862953186,False
+106 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.7881188988685608,False
+106 (10).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.7885512113571167,False
+106 (10).jpg,FAKE,B_noise,noise_0.01,0.01,0.7614839673042297,False
+106 (10).jpg,FAKE,B_noise,noise_0.02,0.02,0.7602187395095825,False
+106 (10).jpg,FAKE,B_noise,noise_0.03,0.03,0.7686050534248352,False
+106 (10).jpg,FAKE,B_noise,noise_0.05,0.05,0.7613717913627625,False
+106 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7615556120872498,False
+106 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7631950378417969,False
+106 (10).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7598605155944824,False
+106 (2).jpg,FAKE,original,original,0.0,0.8213953971862793,False
+106 (2).jpg,FAKE,A_blur,blur_0.3,0.3,0.8213953971862793,False
+106 (2).jpg,FAKE,A_blur,blur_0.5,0.5,0.8679401874542236,False
+106 (2).jpg,FAKE,A_blur,blur_0.8,0.8,0.8585458993911743,False
+106 (2).jpg,FAKE,A_blur,blur_1.0,1.0,0.8585458993911743,False
+106 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8668971061706543,False
+106 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.862250030040741,False
+106 (2).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8590208292007446,False
+106 (2).jpg,FAKE,B_noise,noise_0.01,0.01,0.829542875289917,False
+106 (2).jpg,FAKE,B_noise,noise_0.02,0.02,0.8101903796195984,False
+106 (2).jpg,FAKE,B_noise,noise_0.03,0.03,0.8106474876403809,False
+106 (2).jpg,FAKE,B_noise,noise_0.05,0.05,0.810349702835083,False
+106 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8237941861152649,False
+106 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8132945895195007,False
+106 (2).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8208485841751099,False
+106 (3).jpg,FAKE,original,original,0.0,0.8684844374656677,False
+106 (3).jpg,FAKE,A_blur,blur_0.3,0.3,0.8684844374656677,False
+106 (3).jpg,FAKE,A_blur,blur_0.5,0.5,0.8542601466178894,False
+106 (3).jpg,FAKE,A_blur,blur_0.8,0.8,0.8412448167800903,False
+106 (3).jpg,FAKE,A_blur,blur_1.0,1.0,0.8412448167800903,False
+106 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8473926782608032,False
+106 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8405101895332336,False
+106 (3).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8349136710166931,False
+106 (3).jpg,FAKE,B_noise,noise_0.01,0.01,0.8678706884384155,False
+106 (3).jpg,FAKE,B_noise,noise_0.02,0.02,0.8618862628936768,False
+106 (3).jpg,FAKE,B_noise,noise_0.03,0.03,0.8617082834243774,False
+106 (3).jpg,FAKE,B_noise,noise_0.05,0.05,0.8601914048194885,False
+106 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8655716776847839,False
+106 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8678522109985352,False
+106 (3).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8696001172065735,False
+106 (4).jpg,FAKE,original,original,0.0,0.8246059417724609,False
+106 (4).jpg,FAKE,A_blur,blur_0.3,0.3,0.8246059417724609,False
+106 (4).jpg,FAKE,A_blur,blur_0.5,0.5,0.8547512888908386,False
+106 (4).jpg,FAKE,A_blur,blur_0.8,0.8,0.8346941471099854,False
+106 (4).jpg,FAKE,A_blur,blur_1.0,1.0,0.8346941471099854,False
+106 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8352347016334534,False
+106 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.82867830991745,False
+106 (4).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8251606822013855,False
+106 (4).jpg,FAKE,B_noise,noise_0.01,0.01,0.8256144523620605,False
+106 (4).jpg,FAKE,B_noise,noise_0.02,0.02,0.8320473432540894,False
+106 (4).jpg,FAKE,B_noise,noise_0.03,0.03,0.8445264101028442,False
+106 (4).jpg,FAKE,B_noise,noise_0.05,0.05,0.8380092978477478,False
+106 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8318107724189758,False
+106 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8329616785049438,False
+106 (4).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8199376463890076,False
+106 (5).jpg,FAKE,original,original,0.0,0.8536599278450012,False
+106 (5).jpg,FAKE,A_blur,blur_0.3,0.3,0.8536599278450012,False
+106 (5).jpg,FAKE,A_blur,blur_0.5,0.5,0.8389028310775757,False
+106 (5).jpg,FAKE,A_blur,blur_0.8,0.8,0.8174363374710083,False
+106 (5).jpg,FAKE,A_blur,blur_1.0,1.0,0.8174363374710083,False
+106 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.842732846736908,False
+106 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8464370965957642,False
+106 (5).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8377037644386292,False
+106 (5).jpg,FAKE,B_noise,noise_0.01,0.01,0.8547109961509705,False
+106 (5).jpg,FAKE,B_noise,noise_0.02,0.02,0.8538119196891785,False
+106 (5).jpg,FAKE,B_noise,noise_0.03,0.03,0.8473740220069885,False
+106 (5).jpg,FAKE,B_noise,noise_0.05,0.05,0.834032416343689,False
+106 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8491408228874207,False
+106 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8584029674530029,False
+106 (5).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8512205481529236,False
+106 (6).jpg,FAKE,original,original,0.0,0.7978971004486084,False
+106 (6).jpg,FAKE,A_blur,blur_0.3,0.3,0.7978971004486084,False
+106 (6).jpg,FAKE,A_blur,blur_0.5,0.5,0.8101228475570679,False
+106 (6).jpg,FAKE,A_blur,blur_0.8,0.8,0.808517336845398,False
+106 (6).jpg,FAKE,A_blur,blur_1.0,1.0,0.808517336845398,False
+106 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8343206644058228,False
+106 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8158895373344421,False
+106 (6).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8102853298187256,False
+106 (6).jpg,FAKE,B_noise,noise_0.01,0.01,0.7997122406959534,False
+106 (6).jpg,FAKE,B_noise,noise_0.02,0.02,0.8019562363624573,False
+106 (6).jpg,FAKE,B_noise,noise_0.03,0.03,0.8059207201004028,False
+106 (6).jpg,FAKE,B_noise,noise_0.05,0.05,0.7998926043510437,False
+106 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.7971295714378357,False
+106 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.7949166893959045,False
+106 (6).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.7942759990692139,False
+106 (7).jpg,FAKE,original,original,0.0,0.840194046497345,False
+106 (7).jpg,FAKE,A_blur,blur_0.3,0.3,0.840194046497345,False
+106 (7).jpg,FAKE,A_blur,blur_0.5,0.5,0.8180504441261292,False
+106 (7).jpg,FAKE,A_blur,blur_0.8,0.8,0.8294598460197449,False
+106 (7).jpg,FAKE,A_blur,blur_1.0,1.0,0.8294598460197449,False
+106 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.829609751701355,False
+106 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8228645324707031,False
+106 (7).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.820105791091919,False
+106 (7).jpg,FAKE,B_noise,noise_0.01,0.01,0.8363519310951233,False
+106 (7).jpg,FAKE,B_noise,noise_0.02,0.02,0.8384400010108948,False
+106 (7).jpg,FAKE,B_noise,noise_0.03,0.03,0.8388881683349609,False
+106 (7).jpg,FAKE,B_noise,noise_0.05,0.05,0.8536607027053833,False
+106 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8376166820526123,False
+106 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8391947150230408,False
+106 (7).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8376362323760986,False
+106 (8).jpg,FAKE,original,original,0.0,0.8367961049079895,False
+106 (8).jpg,FAKE,A_blur,blur_0.3,0.3,0.8367961049079895,False
+106 (8).jpg,FAKE,A_blur,blur_0.5,0.5,0.8361190557479858,False
+106 (8).jpg,FAKE,A_blur,blur_0.8,0.8,0.8093894124031067,False
+106 (8).jpg,FAKE,A_blur,blur_1.0,1.0,0.8093894124031067,False
+106 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8359610438346863,False
+106 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8313411474227905,False
+106 (8).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.822669267654419,False
+106 (8).jpg,FAKE,B_noise,noise_0.01,0.01,0.8356240391731262,False
+106 (8).jpg,FAKE,B_noise,noise_0.02,0.02,0.8408863544464111,False
+106 (8).jpg,FAKE,B_noise,noise_0.03,0.03,0.8356863856315613,False
+106 (8).jpg,FAKE,B_noise,noise_0.05,0.05,0.8380754590034485,False
+106 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8430845141410828,False
+106 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8309977054595947,False
+106 (8).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8416396379470825,False
+106 (9).jpg,FAKE,original,original,0.0,0.8084056377410889,False
+106 (9).jpg,FAKE,A_blur,blur_0.3,0.3,0.8084056377410889,False
+106 (9).jpg,FAKE,A_blur,blur_0.5,0.5,0.8102133274078369,False
+106 (9).jpg,FAKE,A_blur,blur_0.8,0.8,0.8124870657920837,False
+106 (9).jpg,FAKE,A_blur,blur_1.0,1.0,0.8124870657920837,False
+106 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8071752190589905,False
+106 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.8041723370552063,False
+106 (9).jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.8103359937667847,False
+106 (9).jpg,FAKE,B_noise,noise_0.01,0.01,0.8098561763763428,False
+106 (9).jpg,FAKE,B_noise,noise_0.02,0.02,0.7983008623123169,False
+106 (9).jpg,FAKE,B_noise,noise_0.03,0.03,0.8189689517021179,False
+106 (9).jpg,FAKE,B_noise,noise_0.05,0.05,0.8149108290672302,False
+106 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8091257810592651,False
+106 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.799564003944397,False
+106 (9).jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8033661842346191,False
+106.jpg,FAKE,original,original,0.0,0.7965291738510132,False
+106.jpg,FAKE,A_blur,blur_0.3,0.3,0.7965291738510132,False
+106.jpg,FAKE,A_blur,blur_0.5,0.5,0.792227566242218,False
+106.jpg,FAKE,A_blur,blur_0.8,0.8,0.7943394780158997,False
+106.jpg,FAKE,A_blur,blur_1.0,1.0,0.7943394780158997,False
+106.jpg,FAKE,A_blur_freq,blur0.5_freq0.05,0.05,0.8068462610244751,False
+106.jpg,FAKE,A_blur_freq,blur0.5_freq0.1,0.1,0.7956115007400513,False
+106.jpg,FAKE,A_blur_freq,blur0.5_freq0.15,0.15,0.7904701232910156,False
+106.jpg,FAKE,B_noise,noise_0.01,0.01,0.7969822287559509,False
+106.jpg,FAKE,B_noise,noise_0.02,0.02,0.7995922565460205,False
+106.jpg,FAKE,B_noise,noise_0.03,0.03,0.8070451617240906,False
+106.jpg,FAKE,B_noise,noise_0.05,0.05,0.8214129209518433,False
+106.jpg,FAKE,B_noise_bright,noise0.02_bright1.02,1.02,0.8054495453834534,False
+106.jpg,FAKE,B_noise_bright,noise0.02_bright1.05,1.05,0.8013484477996826,False
+106.jpg,FAKE,B_noise_bright,noise0.02_bright1.08,1.08,0.8046225905418396,False

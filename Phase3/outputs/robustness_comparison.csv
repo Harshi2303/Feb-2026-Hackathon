@@ -1,0 +1,7 @@
+Metric,Original_Model_Value,Improved_Model_Value
+Flip_Rate_Strategy_A,0.045,0.155
+Flip_Rate_Strategy_B,0.09,0.075
+Flip_Rate_Overall,0.0675,0.115
+Mean_Confidence_Drop_A,-0.0295319869688579,-0.010307063034602574
+Mean_Confidence_Drop_B,0.029154211112431116,-0.009184285487447466
+MeanAbsDelta_p_fake_All_Attacks,0.046533988331045426,0.0721109498716552

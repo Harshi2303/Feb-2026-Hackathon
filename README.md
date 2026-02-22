@@ -1,84 +1,52 @@
-**Phase 2 – Model Training & Evaluation**
+# Phase 2 – Model Training & Evaluation
 
-📖 **Overview**
+## Overview
+Phase 2 focuses on training and evaluating a deep learning model to classify images as Real or Synthetic (AI-generated).  
+We use a pre-trained **ResNet-18** architecture with transfer learning and fine-tune the model on the CIFAKE dataset.
 
-Phase 2 focuses on training and evaluating a deep learning model to classify images as Real or Synthetic (AI-generated).
-Using a pre-trained ResNet-18 architecture with transfer learning, we fine-tune the model on the CIFAKE dataset and evaluate its performance using multiple metrics.
+## Objectives
+- Load and preprocess the CIFAKE dataset
+- Apply transfer learning using ResNet-18
+- Train the model on Real vs Synthetic images
+- Evaluate performance using accuracy and classification metrics
+- Save the trained model for Phase 3 analysis
 
-🎯 **Objectives**
+## Dataset
+**Dataset Used:** CIFAKE (Real + Synthetic images)  
 
-Load and preprocess CIFAKE dataset
+**Classes:**
+- 0 → Real
+- 1 → Synthetic
 
-Apply transfer learning using ResNet-18
+**Split Ratio:**
+- Train: 70%
+- Validation: 15%
+- Test: 15%
 
-Train model on Real vs Synthetic images
+## Workflow
 
-Evaluate performance using accuracy and classification metrics
+### 1. Data Preprocessing
+- Resize images to 224×224
+- Normalize using ImageNet mean & standard deviation
+- Convert images to tensors
+- Create DataLoaders for train, validation, and test sets
 
-Save trained model for Phase 3 analysis
+### 2. Model Training
+- Use pre-trained ResNet-18
+- Replace the final fully connected layer for binary classification
+- Train the model for N epochs
+- Track:
+  - Training Loss
+  - Validation Accuracy
 
-🗂 **Dataset**
+### 3. Model Evaluation
+- Evaluate the trained model on the test set
+- Generate:
+  - Accuracy score
+  - Confusion matrix *(if implemented)*
+  - Classification report *(if implemented)*
 
-Dataset Used: CIFAKE (Real + Synthetic images)
-
-Classes:
-0 → Real
-
-1 → Synthetic
-
-Split Ratio:
-
-Train: 70%
-
-Validation: 15%
-
-Test: 15%
-
-🔄 **Workflow**
-
-1️⃣ Data Preprocessing
-
-Resize images (224×224)
-
-Normalize using ImageNet mean & std
-
-Convert to tensors
-
-Create DataLoaders
-
-2️⃣ Model Training
-Freeze initial layers (optional)
-
-Train for N epochs
-
-Track:
-
-Training Loss
-
-Validation Loss
-
-Validation Accuracy
-
-3️⃣ Model Evaluation
-
-Evaluate on Test Set
-
-Generate:
-
-Accuracy score
-
-Confusion matrix
-
-Classification report
-
-4️⃣ Model Saving
-Save trained model 
-
-
-**Key Learnings**
-
-Transfer learning significantly improves performance.
-
-ResNet-18 generalizes well for synthetic image detection.
-
-Proper normalization and dataset splitting are crucial.
+### 4. Model Saving
+- Save the trained model for future use:
+```python
+torch.save(model.state_dict(), "resnet18_phase2.pth")

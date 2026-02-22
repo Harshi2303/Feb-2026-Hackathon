@@ -8,9 +8,13 @@ Using a pre-trained ResNet-18 architecture with transfer learning, we fine-tune 
 🎯 **Objectives**
 
 Load and preprocess CIFAKE dataset
+
 Apply transfer learning using ResNet-18
+
 Train model on Real vs Synthetic images
+
 Evaluate performance using accuracy and classification metrics
+
 Save trained model for Phase 3 analysis
 
 🗂 **Dataset**
